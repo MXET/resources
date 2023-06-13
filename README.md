@@ -57,6 +57,13 @@ The tools in this section are great for capstone projects but also have been use
 * [Round Wire Stripper](https://qr.scuttlerobot.org/g/2AplH9VFcYL)
 * [Flush Cutters](https://qr.page/g/3ffmXrqe0EX)
 
+# Magic Schoolbox
+It's a "smart" toolbox with each tool provided with video instructions.  This is a self-service station that is open for all to use in the Product Innovation Cellar.  
+
+## Feedback
+This system is designed for students, please give feedback using this form if you have requests.  If we get no feedback, this project gets much less support.
+[Feedback Form](https://qr.page/g/2SgVRaiX04o) using google forms.
+
 # Documentation
 This section contains resources for students making their own documentation.
 * Capstone teams - documenting their designs
@@ -110,4 +117,5 @@ Each part has a special feature that make them examples to learn from.  But sepa
 
 > Metals
 * [The Fruit Spike](https://youtu.be/ikl88TbnMBU) featuring support-free geometry, and easy part removal
-* 
+* [ETID Ring](https://grabcad.com/library/etid-aggie-ring-for-3d-printing-1) like an Aggie ring for ETID souvenir
+* [MXET Ring](https://grabcad.com/library/mxet-aggie-ring-for-3d-printing-1) like an Aggie ring for MXET souvenir
