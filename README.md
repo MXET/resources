@@ -91,7 +91,12 @@ This section offers knowledge about manufacturing methods from 2010-2020 era, th
 ## Design Knowledge
 These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifically geared towards MXET projects.
 
-> Polymers
+Here is the first youtube video in the list.
+<div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ"></iframe></div>
+ 
+ _Figure Applied Polymer FDM Introduction_
+
+ > Polymers
 * [Applied Polymer FDM](https://qr.page/g/1lM33LCiZDm) explains a great deal of tips for polymer additive manufacturing
 * [Design for Printing - Part 1](https://qr.scuttlerobot.org/g/56uPKiUq0p) strategy for designing geometry
 * [Design for Printing - Part 2](https://qr.scuttlerobot.org/g/56uPKiUq0p) working with fasteners & bonding
