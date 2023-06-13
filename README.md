@@ -83,6 +83,24 @@ Keep in mind how many directions your team has gone to produce your project.  He
   * [Icons library](https://qr.page/g/4l8Rh9LDBRP) for draw.io - download as .xml file and import into draw.io
 4. Submit a [3D Print request form](https://qr.page/g/4T5bfQF9eAW) for desktop prints in ETID.
 
+## Diagrams
+Special section here to introduce [Draw.io](https://Draw.io) - What I love about this application is that it's portable, and not locked in.  Anything you build in draw.io can be copied neatly over to other applications such as powerpoint, visio, etc.  So, when you need it, it's there.  When you don't you export.
+
+They have an impressive amount of Integrations so it's a winner in my book
+![drawio integrations](https://www.drawio.com/assets/img/blog/integrations.png)
+_Figure: drawio integrations_
+
+Useful steps:
+> See the [Quick Start Video](https://youtu.be/Z0D96ZikMkc)
+> 
+> Import custom libraries [instructions](https://drawio-app.com/blog/import-and-export-vsdx-files/) to get lots of free icons
+> 
+> Import visio diagrams [instruction](https://drawio-app.com/blog/import-and-export-vsdx-files)
+> 
+> Get icons curated specially for MXET [HERE](https://qr.page/g/4l8Rh9LDBRP)
+> 
+> Perform realtime [collaboration](https://youtu.be/4ejY7MmMUSg)
+
 # Modern Manufacturing
 This section offers knowledge about manufacturing methods from 2010-2020 era, that may not have arrived your coursework.
 
