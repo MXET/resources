@@ -29,7 +29,7 @@ An introduction to creating a power budget.  This is oriented to systems that ar
 
 ## Power Bench
 The Power Bench is a lab station for hands-on testing of powered electronics.
-![Power Bench image](https://i.imgur.com/y8rRf60.jpg)
+![Power Bench image](https://i.imgur.com/y8rRf60.jpg ':class=image-50')
 
 ### Power Bench Instructions
 
