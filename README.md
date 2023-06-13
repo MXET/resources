@@ -23,7 +23,7 @@ This subject often falls neatly in between the curriculum of other courses.  The
 ## Power Budgeting
 An introduction to creating a power budget.  This is oriented to systems that are battery operated, rather than plugged into a wall.
 
-* Quick and dirty [video on power budget](https://qr.scuttlerobot.org/g/RkNMzfI67w)
+* Quick and dirty [video on power budget](https://external.ink/?to=qr.scuttlerobot.org/g/RkNMzfI67w)
 * Template to [budget power in excel](https://qr.page/g/3fLXXbQFdPo) (pairs with the video)
 * Hands-on [instructions for testing](https://qr.page/g/IAg6YnIaPs) power with our tools.
 
@@ -78,6 +78,8 @@ Keep in mind how many directions your team has gone to produce your project.  He
 # Modern Manufacturing
 This section offers knowledge about manufacturing methods from 2010-2020 era, that may not have arrived your coursework.
 
+---
+
 ## Design Knowledge
 These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifically geared towards MXET projects.
 
@@ -91,6 +93,8 @@ These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifi
 > Metals
 * [Metal Additive Manufacturing - Part 1](https://qr.page/g/5qmDxtnBaG3) methods and limitations.
 * [Metal Additive Manufacturing Part 2](https://qr.page/g/528XoZspn3U) exploring applications.
+
+---
 
 ## Additive Manufacturing Examples
 Each part has a special feature that make them examples to learn from.  But separately, you may find these parts useful in your project.
