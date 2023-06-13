@@ -23,7 +23,7 @@ This subject often falls neatly in between the curriculum of other courses.  The
 ## Power Budgeting
 An introduction to creating a power budget.  This is oriented to systems that are battery operated, rather than plugged into a wall.
 
-* Quick and dirty [video on power budget](https://external.ink/?to=qr.scuttlerobot.org/g/RkNMzfI67w)
+* Quick and dirty [video on power budget](https://qr.scuttlerobot.org/g/RkNMzfI67w)
 * Template to [budget power in excel](https://qr.page/g/3fLXXbQFdPo) (pairs with the video)
 * Hands-on [instructions for testing](https://qr.page/g/IAg6YnIaPs) power with our tools.
 
@@ -44,7 +44,8 @@ The Power Bench includes off-the-shelf testers, adapters, power supplies in the 
 * USB C Meter [in PDF](https://qr.page/g/2fG6cJvZi27)
 * CBA (computerized battery analyzer) [version IV PDF](https://qr.page/g/2Gbm5eF5LD9)
 * AC Power Meter [DIN-mounted meter D52-2066](https://qr.page/g/2Gz7zQ1hXL5) in PDF
-* USB C Charging Station [120w USBC supply](https://qr.page/g/51rwPdnPbKS) in pdf
+* USB C Charging Station [120w USBC supply](https://qr.page/g/51rwPdnPbKS) in PDF
+* Powerwerx Watt Meter [45A Continuous](https://qr.page/g/40KLe1ff1lB) in PDF
 
 # Tools
 The tools in this section are great for capstone projects but also have been used to build the power bench.  10 Years of building electronics and observing capstone projects pointed us to these tools as the simplest collection to cover the most needs. 
