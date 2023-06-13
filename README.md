@@ -1,4 +1,4 @@
-# Resources
+# MXET Resources
 Resources for Multidisciplinary Engineering Education
 
 | LEARNING | DESIGNING | DOCUMENTING |
@@ -18,6 +18,7 @@ The Power Bench is a lab station for hands-on testing of powered electronics.
 * [PDF index](https://qr.page/g/2fG6cJvZi27) breaks down instructions
 * [PDF queries](https://qr.page/g/1FG90ytGtOp) shows what you can test
 * [PDF Example Results](https://qr.page/g/LcfYDDoNz6) shows example results
+* [Video - Power Budgeting](https://qr.scuttlerobot.org/g/RkNMzfI67w) an introduction to creating a power budget (advanced).
 
 ## Device User Manuals
 The Power Bench includes off-the-shelf testers, adapters, power supplies in the power bench that come with their own instructions.  You can find them here.
@@ -53,7 +54,6 @@ Keep in mind how many directions your team has gone to produce your project.  He
   3. [Icons library](https://qr.page/g/4l8Rh9LDBRP) for draw.io - download as .xml file and import into draw.io
 4. Submit a [3D Print request form](https://qr.page/g/4T5bfQF9eAW) for desktop prints in ETID.
 
-
 # Modern Manufacturing
 This section offeres knowledge about manufacturing methods from 2010-2020 era, that may not be included in your coursework.
 
@@ -61,7 +61,8 @@ This section offeres knowledge about manufacturing methods from 2010-2020 era, t
 These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifically geared towards MXET projects.
 
 * [Applied Polymer FDM](https://qr.page/g/1lM33LCiZDm) explains a great deal of tips for polymer additive manufacturing
-* [Design for Printing - Part 1](https://qr.scuttlerobot.org/g/56uPKiUq0p)
-* [Design for Printing - Part 2](https://qr.scuttlerobot.org/g/56uPKiUq0p)
+* [Design for Printing - Part 1](https://qr.scuttlerobot.org/g/56uPKiUq0p) strategy for designing geometry
+* [Design for Printing - Part 2](https://qr.scuttlerobot.org/g/56uPKiUq0p) working with fasteners & bonding
+* [Design for Printing - THEORY]() use 3D printing only where it belongs
 * [Metal Additive Manufacturing - Part 1](https://qr.page/g/5qmDxtnBaG3) methods and limitations.
 * [Metal Additive Manufacturing Part 2](https://qr.page/g/528XoZspn3U) exploring applications.
