@@ -53,18 +53,18 @@ The tools in this section are great for capstone projects but also have been use
 * [Round Wire Stripper](https://qr.scuttlerobot.org/g/2AplH9VFcYL)
 * [Flush Cutters](https://qr.page/g/3ffmXrqe0EX)
 
-## Documentation
+# Documentation
 This section contains resources for students making their own documentation.
 * Capstone teams - documenting their designs
 * Researchers - documenting results
 * Faculty - documenting teaching material
 
-### The Hugeness
+## The Hugeness
 Keep in mind how many directions your team has gone to produce your project.  Here is a sample of applications you may have used.  What is most critical for you to document?  Remember: the root of engineering is science and the root of science is repeatability of results.
 ![MXET design applications](img/mxet_design_apps.svg)
 
 
-### Tips
+## Tips
 1. Use dynamic QR codes to input a file, hyperlink, or other content to a URL that you can change later.
   2. [QR code generator](https://the-qr-code-generator.com)
 2. If you use Draw.io for your diagrams, we have extra tools for you
@@ -74,7 +74,7 @@ Keep in mind how many directions your team has gone to produce your project.  He
 # Modern Manufacturing
 This section offeres knowledge about manufacturing methods from 2010-2020 era, that may not be included in your coursework.
 
-## PDF Data
+## Manufacturing Knowledge
 These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifically geared towards MXET projects.
 
 * [Applied Polymer FDM](https://qr.page/g/1lM33LCiZDm) explains a great deal of tips for polymer additive manufacturing
@@ -83,3 +83,12 @@ These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifi
 * [Design for Printing - THEORY]() use 3D printing only where it belongs
 * [Metal Additive Manufacturing - Part 1](https://qr.page/g/5qmDxtnBaG3) methods and limitations.
 * [Metal Additive Manufacturing Part 2](https://qr.page/g/528XoZspn3U) exploring applications.
+
+## Additive Manufacturing Examples
+Each part has a special feature that make them examples to learn from.  But separately, you may find these parts useful in your project.
+
+* [Laminar flow nozzle](https://youtu.be/0_PJ1xX05Y8) features Bonding, Sealing, Waterproofing, and Laser Cutting (video).
+* [Model](https://grabcad.com/library/laminar-flow-valve-assembly-1) for the laminar flow nozzle.
+* [compliant DIN brackets](https://grabcad.com/library/compliant-din-brackets-1) featuring compliant mechanisms, parametric designs.
+* [linear actuator mechanism](https://grabcad.com/library/spraymaster-1) featuring extruded 2020, electronics, fasteners.
+* [openJar](https://grabcad.com/library/openjar-1) printable threaded lid, featuring parametric parts and assemblies.
