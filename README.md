@@ -110,7 +110,7 @@ This section offers knowledge about manufacturing methods from 2010-2020 era, th
 These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifically geared towards MXET projects.
 
 Here is the first youtube video in the list.
-<div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div>
+<div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></html>
  
  _Figure Applied Polymer FDM Introduction_
 
@@ -139,6 +139,7 @@ Each part has a special feature that make them examples to learn from.  But sepa
 * [openJar](https://grabcad.com/library/openjar-1) printable threaded lid, featuring parametric parts and assemblies.
 
 > Metals
+ 
 * [The Fruit Spike](https://youtu.be/ikl88TbnMBU) featuring support-free geometry, and easy part removal
 * [ETID Ring](https://grabcad.com/library/etid-aggie-ring-for-3d-printing-1) like an Aggie ring for ETID souvenir
 * [MXET Ring](https://grabcad.com/library/mxet-aggie-ring-for-3d-printing-1) like an Aggie ring for MXET souvenir
