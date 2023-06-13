@@ -110,11 +110,10 @@ This section offers knowledge about manufacturing methods from 2010-2020 era, th
 These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifically geared towards MXET projects.
 
 Here is the first youtube video in the list.
-<div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></html>
- 
- _Figure Applied Polymer FDM Introduction_
+<div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div>
 
  > Polymers
+ 
 * [Applied Polymer FDM](https://qr.page/g/1lM33LCiZDm) explains a great deal of tips for polymer additive manufacturing
 * [Design for Printing - Part 1](https://qr.scuttlerobot.org/g/56uPKiUq0p) strategy for designing geometry
 * [Design for Printing - Part 2](https://qr.scuttlerobot.org/g/56uPKiUq0p) working with fasteners & bonding
@@ -122,6 +121,7 @@ Here is the first youtube video in the list.
 * [Borrowing fine tolerances](https://youtu.be/qSascGA3_lM) to overcome 3D printing shortfalls
 
 > Metals
+ 
 * [Metal Additive Manufacturing - Part 1](https://qr.page/g/5qmDxtnBaG3) methods and limitations.
 * [Metal Additive Manufacturing Part 2](https://qr.page/g/528XoZspn3U) exploring applications.
 
