@@ -5,15 +5,31 @@ Resources for Multidisciplinary Engineering Education
 
 | [Web Page](https://qr.page/g/4ZptmdWxn5y) | [Github](https://github.com/MXET/resources) |
 
-## Introduction
+# Introduction
 To MXET students: If you are graduating before 2030, then ZERO of your professors have ever graduated from a multidisciplinary program.  You're in new territory and often times, the professor who is an expert in one part of your field may be a novice in the adjacent field which you study.  Because of this, you have the challenge of balancing the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.
 
+# Power Electronics
+This subject often falls neatly in between the curriculum of other courses.  Therefore, this resource focuses heavily on powering electronics.
 
-# Power Bench
+| Course         | Topic                              |
+| -------------- | ---------------------------------- |
+| Circuits 101   | What's a volt / amp / watt?        |
+| Thermodynamics | Where does energy go?              |
+| Mechatronics   | How to select an actuator?         |
+| (gap)          | How to provide power to a circuit? |
+
+## Power Budgeting
+An introduction to creating a power budget.  This is oriented to systems that are battery operated, rather than plugged into a wall.
+
+* Quick and dirty [video on power budget](https://qr.scuttlerobot.org/g/RkNMzfI67w)
+* Template to [budget power in excel](https://qr.page/g/3fLXXbQFdPo) (pairs with the video)
+* Hands-on [instructions for testing](https://qr.page/g/IAg6YnIaPs) power with our tools.
+
+## Power Bench
 The Power Bench is a lab station for hands-on testing of powered electronics.
 ![Power Bench image](https://i.imgur.com/y8rRf60.jpg)
 
-## Power Bench Instructions
+### Power Bench Instructions
 
 * [PDF index](https://qr.page/g/2fG6cJvZi27) breaks down instructions
 * [PDF queries](https://qr.page/g/1FG90ytGtOp) shows what you can test
