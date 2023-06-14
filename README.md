@@ -60,6 +60,8 @@ The tools in this section are great for capstone projects but also have been use
 # Magic Schoolbox
 It's a "smart" toolbox with each tool provided with video instructions.  This is a self-service station that is open for all to use in the Product Innovation Cellar.  
 
+![magic schoolbox drawer](https://i.imgur.com/zZKRNVE.jpg)
+
 ## Feedback
 This system is designed for students, please give feedback using this form if you have requests.  If we get no feedback, this project gets much less support.
 [Feedback Form](https://qr.page/g/2SgVRaiX04o) using google forms.
