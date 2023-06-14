@@ -34,14 +34,25 @@ The Power Bench is a lab station for hands-on testing of powered electronics.
 <div class="accordion">
 
 <details>
-  <summary>Modular Components of Power bench</summary>
+  <summary>Modules - Hardware</summary>
 
   Design files  
   _you can access STL for printing, SOLIDWORKS for modifying, or STEP for building assembleies in your own CAD software_
 
   * [DIN rail](https://grabcad.com/library/din-rail-36 "din rail model"), a standard industrial building block for electronics
   * [DIN brackets](https://grabcad.com/library/compliant-din-brackets-1 "DIN Bracket designs"), 3D-Printed and easy to modify for your devices
-  * [Extrusions, 30x30mm](https://grabcad.com/library/extrusion-variants-3030-1), for building structures
+  * [Extrusions, 30x30mm](https://grabcad.com/library/extrusion-variants-3030-1), for building frames.
+</details>
+
+<details>
+  <summary>Modules - Instruments</summary>
+
+  * [CBA IV Power Analyzer](https://www.westmountainradio.com/kb_view_topic.php?id=OT39), ► grab software for model IV
+  * [CBA IV User Manual](https://qr.page/g/2Gbm5eF5LD9) in PDF format.
+  * [Power Supply, ATX](https://www.thermaltakeusa.com/toughpower-gx2-600w.html) model Toughpower GX2 600W.
+  * [Power Meter, DC](https://qr.page/g/40KLe1ff1lB) manual in PDF format.
+  * [Power Meter, AC](https://qr.page/g/2Gz7zQ1hXL5) manual in PDF format.
+  
 
 </details>
 </div>
