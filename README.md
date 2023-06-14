@@ -1,6 +1,7 @@
 # MXET Resources
 Resources for Multidisciplinary Engineering Education
 
+
 | LEARNING | DESIGNING | DOCUMENTING |
 
 | [Web Page](https://qr.page/g/4ZptmdWxn5y) | [Github](https://github.com/MXET/resources) |
@@ -8,7 +9,7 @@ Resources for Multidisciplinary Engineering Education
 # Introduction
 To MXET students: If you are graduating before 2030, then ZERO of your professors have ever graduated from a multidisciplinary program.  You're in new territory and often times, the professor who is an expert in one part of your field may be a novice in the adjacent field which you study.  Because of this, you have the challenge of balancing the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.
 
-# Powered Electronics
+# :battery: Powered Electronics
 This subject often falls neatly in between the curriculum of other courses.  Therefore, this resource focuses heavily on powering electronics.
 
 | Course         | Topic                              |
@@ -67,7 +68,7 @@ The Power Bench includes off-the-shelf testers, adapters, power supplies in the 
   
   <summary>Electronics Accessories</summary>
 
-  * [USB-C Breakout](https://www.amazon.com/gp/product/B09KC1SMGD)), on amazon
+  * [USB-C Breakout](https://www.amazon.com/gp/product/B09KC1SMGD), on amazon
   * [USB-C PD Trigger](https://www.amazon.com/gp/product/B0B688HK9S) on amazon.
   * [Power Breakout, ATX](https://www.amazon.com/gp/product/B07S91NQL3) on amazon. 
   
@@ -84,7 +85,7 @@ The Power Bench includes off-the-shelf testers, adapters, power supplies in the 
 * [Video - Power Budgeting](https://qr.scuttlerobot.org/g/RkNMzfI67w) an introduction to creating a power budget (advanced).
 
 
-# Tools
+# :toolbox: Tools
 The tools in this section are great for capstone projects but also have been used to build the power bench.  10 Years of building electronics and observing capstone projects pointed us to these tools as the simplest collection to cover the most needs. 
 
 * [Crimper - Dupont](https://qr.page/g/4GNzxHf8E69)
@@ -103,7 +104,8 @@ It's a "smart" toolbox with each tool provided with video instructions.  This is
 This system is designed for students, please give feedback using this form if you have requests.  If we get no feedback, this project gets much less support.
 [Feedback Form](https://qr.page/g/2SgVRaiX04o) using google forms.
 
-# Documentation
+
+# :book: Documentation
 This section contains resources for students making their own documentation.
 * Capstone teams - documenting their designs
 * Researchers - documenting results
@@ -145,7 +147,8 @@ Useful Draw.io steps:
 > 
 > Perform realtime [collaboration](https://youtu.be/4ejY7MmMUSg)
 
-# Modern Manufacturing
+
+# :woman_technologist: Modern Manufacturing
 This section offers knowledge about manufacturing methods from 2010-2020 era, that may not have arrived your coursework.
 
 ---
