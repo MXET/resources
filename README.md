@@ -29,7 +29,12 @@ An introduction to creating a power budget.  This is oriented to systems that ar
 
 ## Power Bench
 The Power Bench is a lab station for hands-on testing of powered electronics.
+
 ![Power Bench image](https://i.imgur.com/y8rRf60.jpg ':class=image-50')
+
+### Power Bench Design
+
+The Power Bench includes off-the-shelf testers, adapters, power supplies in the power bench that come with their own instructions.  You can find them here.
 
 <div class="accordion">
 
@@ -45,16 +50,30 @@ The Power Bench is a lab station for hands-on testing of powered electronics.
 </details>
 
 <details>
+  
   <summary>Modules - Instruments</summary>
 
   * [CBA IV Power Analyzer](https://www.westmountainradio.com/kb_view_topic.php?id=OT39), ► grab software for model IV
   * [CBA IV User Manual](https://qr.page/g/2Gbm5eF5LD9) in PDF format.
   * [Power Supply, ATX](https://www.thermaltakeusa.com/toughpower-gx2-600w.html) model Toughpower GX2 600W.
+  * [Power Supply, USB-C](https://qr.page/g/51rwPdnPbKS) model 818H, 120w, manual in PDF 
   * [Power Meter, DC](https://qr.page/g/40KLe1ff1lB) manual in PDF format.
   * [Power Meter, AC](https://qr.page/g/2Gz7zQ1hXL5) manual in PDF format.
+  * [Power Meter, USB-C](https://qr.page/g/2fG6cJvZi27) manual in PDF format.
   
-
 </details>
+
+<details>
+  
+  <summary>Electronics Accessories</summary>
+
+  * [USB-C Breakout](https://www.amazon.com/gp/product/B09KC1SMGD)), on amazon
+  * [USB-C PD Trigger](https://www.amazon.com/gp/product/B0B688HK9S) on amazon.
+  * [Power Breakout, ATX](https://www.amazon.com/gp/product/B07S91NQL3) on amazon. 
+  
+</details>
+
+
 </div>
 
 ### Power Bench Instructions
@@ -64,14 +83,6 @@ The Power Bench is a lab station for hands-on testing of powered electronics.
 * [PDF Example Results](https://qr.page/g/LcfYDDoNz6) shows example results
 * [Video - Power Budgeting](https://qr.scuttlerobot.org/g/RkNMzfI67w) an introduction to creating a power budget (advanced).
 
-### Device User Manuals
-The Power Bench includes off-the-shelf testers, adapters, power supplies in the power bench that come with their own instructions.  You can find them here.
-
-* USB C Meter [in PDF](https://qr.page/g/2fG6cJvZi27)
-* CBA (computerized battery analyzer) [version IV PDF](https://qr.page/g/2Gbm5eF5LD9)
-* AC Power Meter [DIN-mounted meter D52-2066](https://qr.page/g/2Gz7zQ1hXL5) in PDF
-* USB C Charging Station [120w USBC supply](https://qr.page/g/51rwPdnPbKS) in PDF
-* Powerwerx Watt Meter [45A Continuous](https://qr.page/g/40KLe1ff1lB) in PDF
 
 # Tools
 The tools in this section are great for capstone projects but also have been used to build the power bench.  10 Years of building electronics and observing capstone projects pointed us to these tools as the simplest collection to cover the most needs. 
