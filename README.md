@@ -96,7 +96,23 @@ They have an impressive amount of Integrations so it's a winner in my book
 ![drawio integrations](https://www.drawio.com/assets/img/blog/integrations.png)
 _Figure: drawio integrations_
 
-Useful steps:
+Useful Draw.io steps:
+
+<div class="accordion">
+
+<details>
+  <summary>Useful tools to use with Draw.io</summary>
+
+  Interchange between resources  
+  _combine drawio, icons libraries, visio, and more_
+
+  *   Import custom libraries [instructions](https://drawio-app.com/blog/import-and-export-vsdx-files/) to get lots of free icons
+  *   Import visio diagrams [instruction](https://drawio-app.com/blog/import-and-export-vsdx-files)
+  *   [The Design of business: Why Design Thinking is the Next Competitive Advantage](http://net.tutsplus.com/articles/general/three-steps-to-fostering-a-user-centered-design-culture/)
+
+</details>
+</div>
+
 > See the [Quick Start Video](https://youtu.be/Z0D96ZikMkc)
 > 
 > Import custom libraries [instructions](https://drawio-app.com/blog/import-and-export-vsdx-files/) to get lots of free icons
