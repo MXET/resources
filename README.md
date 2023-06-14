@@ -84,6 +84,10 @@ Keep in mind how many directions your team has gone to produce your project.  He
   * How to Make [Nice Graphics in Draw.io](https://youtu.be/drq9eDgVSfo) in video.
   * [Icons library](https://qr.page/g/4l8Rh9LDBRP) for draw.io - download as .xml file and import into draw.io
 4. Submit a [3D Print request form](https://qr.page/g/4T5bfQF9eAW) for desktop prints in ETID.
+5. Getting help: [Ask questions the smart way](https://linuxsilo.net/docs/smart-questions_en.html) and you will be successful.
+  * For Hardware or Software | Faculty or peers | academic or professional |
+6. For the Love of God - date your work & version your docs
+  * 'Final Draft' does not exist.  The 3rd version is v3.0.  The submitted version is v3.0-submitted.
 
 ## Diagrams
 Special section here to introduce [Draw.io](https://Draw.io) - What I love about this application is that it's portable, and not locked in.  Anything you build in draw.io can be copied neatly over to other applications such as powerpoint, visio, etc.  So, when you need it, it's there.  When you don't you export.
@@ -145,6 +149,7 @@ Each part has a special feature that make them examples to learn from.  But sepa
 * [The Fruit Spike](https://youtu.be/ikl88TbnMBU) featuring support-free geometry, and easy part removal
 * [ETID Ring](https://grabcad.com/library/etid-aggie-ring-for-3d-printing-1) like an Aggie ring for ETID souvenir
 * [MXET Ring](https://grabcad.com/library/mxet-aggie-ring-for-3d-printing-1) like an Aggie ring for MXET souvenir
+
 
 # Capstone Example
 Every capstone team submits their documentation before graduation but the new teams have varying access to examples.  This section uses an example capstone team called Flobotics with a product "Ventus," a robot designed to navigate through indoor greenhouses to collect sensor data.
