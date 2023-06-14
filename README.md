@@ -143,3 +143,17 @@ Each part has a special feature that make them examples to learn from.  But sepa
 * [The Fruit Spike](https://youtu.be/ikl88TbnMBU) featuring support-free geometry, and easy part removal
 * [ETID Ring](https://grabcad.com/library/etid-aggie-ring-for-3d-printing-1) like an Aggie ring for ETID souvenir
 * [MXET Ring](https://grabcad.com/library/mxet-aggie-ring-for-3d-printing-1) like an Aggie ring for MXET souvenir
+
+# Capstone Example
+Every capstone team submits their documentation before graduation but the new teams have varying access to examples.  This section uses an example capstone team called Flobotics with a product "Ventus," a robot designed to navigate through indoor greenhouses to collect sensor data.
+
+## Web Page
+[Flobotics Web Page](https://peiyuzhe.wixsite.com/flobotics)
+
+## Design Concept
+This includes the Conceptual Block Diagram, Concept of Operation, Performance Specifications, and Functional Block Diagram
+
+... To be populated ► Check back soon!
+
+
+
