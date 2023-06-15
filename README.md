@@ -159,6 +159,8 @@ These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifi
 Here is the first youtube video in the list.
 <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div>
 
+### Polymers
+
  > Polymers
  
 * [Applied Polymer FDM](https://qr.page/g/1lM33LCiZDm) explains a great deal of tips for polymer additive manufacturing
@@ -166,6 +168,8 @@ Here is the first youtube video in the list.
 * [Design for Printing - Part 2](https://qr.scuttlerobot.org/g/56uPKiUq0p) working with fasteners & bonding
 * [Choosing OTS or Printing](https://youtu.be/z3sn-V66eqY) when to use 3D Printing and Off-the-shelf, for effectiveness.
 * [Borrowing fine tolerances](https://youtu.be/qSascGA3_lM) to overcome 3D printing shortfalls
+
+### Metals
 
 > Metals
  
