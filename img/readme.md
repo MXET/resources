@@ -1,1 +1,1 @@
-Images for the web page(s).
+# A directory for images.
