@@ -7,4 +7,4 @@ The HEBI is a modular robot system that balances high performance and affordabil
 
 A User Manual was authored by student Jeffrey Watts with edits by lab coordinator David Malawey.
 
-[Get MXET HEBI User Manual(/doc/2018_MANUAL_HEBI.pdf)
+[Get MXET HEBI User Manual](/doc/2018_MANUAL_HEBI.pdf)
