@@ -40,6 +40,16 @@ The Power Bench includes off-the-shelf testers, adapters, power supplies in the 
 <div class="accordion">
 
 <details>
+  <summary>Software</summary>
+
+  Get Software  
+  _Software is only necessary if you wish to use the CBA (computerized battery analyzer)_
+
+ * [CBA IV Power Analyzer](https://www.westmountainradio.com/kb_view_topic.php?id=OT39), ► grab software for model IV
+ 
+</details>
+
+<details>
   <summary>Modules - Hardware</summary>
 
   Design files  
@@ -48,13 +58,13 @@ The Power Bench includes off-the-shelf testers, adapters, power supplies in the 
   * [DIN rail](https://grabcad.com/library/din-rail-36 "din rail model"), a standard industrial building block for electronics
   * [DIN brackets](https://grabcad.com/library/compliant-din-brackets-1 "DIN Bracket designs"), 3D-Printed and easy to modify for your devices
   * [Extrusions, 30x30mm](https://grabcad.com/library/extrusion-variants-3030-1), for building frames.
+
 </details>
 
 <details>
   
   <summary>Modules - Instruments</summary>
 
-  * [CBA IV Power Analyzer](https://www.westmountainradio.com/kb_view_topic.php?id=OT39), ► grab software for model IV
   * [CBA IV User Manual](https://qr.page/g/2Gbm5eF5LD9) in PDF format.
   * [Power Supply, ATX](https://www.thermaltakeusa.com/toughpower-gx2-600w.html) model Toughpower GX2 600W.
   * [Power Supply, USB-C](https://qr.page/g/51rwPdnPbKS) model 818H, 120w, manual in PDF 
