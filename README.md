@@ -4,7 +4,8 @@ Resources for Multidisciplinary Engineering Education
 
 | LEARNING | DESIGNING | DOCUMENTING |
 
-| [Web Page](https://qr.page/g/4ZptmdWxn5y) | [Github](https://github.com/MXET/resources) |
+| [Web Page](https://qr.page/g/4ZptmdWxn5y ':class=button') 
+| [Github Repository](https://github.com/MXET/resources ':class=button') |
 
 # Introduction
 To MXET students: If you are graduating before 2030, then ZERO of your professors have ever graduated from a multidisciplinary program.  You're in new territory and often times, the professor who is an expert in one part of your field may be a novice in the adjacent field which you study.  Because of this, you have the challenge of balancing the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.
