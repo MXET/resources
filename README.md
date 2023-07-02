@@ -180,6 +180,9 @@ Here is the first youtube video in the list.
 * [Choosing OTS or Printing](https://youtu.be/z3sn-V66eqY) when to use 3D Printing and Off-the-shelf, for effectiveness.
 * [Borrowing fine tolerances](https://youtu.be/qSascGA3_lM) to overcome 3D printing shortfalls
 
+> Knowledgebase ETID
+> 
+
 ### Metals
 
 > Metals
@@ -187,9 +190,17 @@ Here is the first youtube video in the list.
 * [Metal Additive Manufacturing - Part 1](https://qr.page/g/5qmDxtnBaG3) methods and limitations.
 * [Metal Additive Manufacturing Part 2](https://qr.page/g/528XoZspn3U) exploring applications.
 
+> ETID Knowledgebase
+* [QuantAM User Guide](https://qr.page/g/528XoZspn3U) for version 2016.
+* [AM400 User Guide](https://lobfile.com/file/wbTQ.pdf) for our metal SLS manufacturing machine.
+* [AM400 Site Prep Guide](https://lobfile.com/file/M3Wp.pdf) for the AM Lab.
+* [Stainless Steel Powder](https://lobfile.com/file/tiX5.pdf) material datasheet.
+* [Metal AM Labs at TAMU](https://lobfile.com/file/9d9r.xlsx) for collaboration.
+* [Build Plate Geometry](https://grabcad.com/library/build-plate-am400-1) CAD model for the Renishaw AM400
+
 ---
 
-## Additive Manufacturing Examples
+## Example Designs
 Each part has a special feature that make them examples to learn from.  But separately, you may find these parts useful in your project.
 
 > Polymers
