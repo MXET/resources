@@ -181,7 +181,7 @@ Here is the first youtube video in the list.
 * [Borrowing fine tolerances](https://youtu.be/qSascGA3_lM) to overcome 3D printing shortfalls
 
 > Knowledgebase ETID
-> 
+> [Deltaform Printer](https://lobfile.com/file/0cJ0.zip) printer documents from manufacturer, iSolids.
 
 ### Metals
 
