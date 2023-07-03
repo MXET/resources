@@ -167,9 +167,6 @@ This section offers knowledge about manufacturing methods from 2010-2020 era, th
 ## Design Knowledge
 These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifically geared towards MXET projects.
 
-Here is the first youtube video in the list.
-<div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div>
-
 ### Polymers
 
  > Polymers
@@ -182,6 +179,10 @@ Here is the first youtube video in the list.
 
 > Knowledgebase ETID
 > [Deltaform Printer](https://lobfile.com/file/0cJ0.zip) printer documents from manufacturer, iSolids.
+
+| Polymer DFM Basics | Polymer DFM Fasteners |
+| ------------------ | --------------------- | 
+| <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div> | <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div> |
 
 ### Metals
 
