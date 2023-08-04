@@ -114,6 +114,8 @@ It's a "smart" toolbox with each tool provided with video instructions.  This is
 
 ![tools_svg](/img/handTools2.svg)
 
+![tools public svg](https://github.com/dmalawey/mxet/blob/main/myEmbed.svg)
+
 ## Feedback
 This system is designed for students, please give feedback using this form if you have requests.  If we get no feedback, this project gets much less support.
 [Feedback Form](https://qr.page/g/2SgVRaiX04o) using google forms.
