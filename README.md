@@ -25,8 +25,9 @@ This subject often falls neatly in between the curriculum of other courses.  The
 ## Power Budgeting
 An introduction to creating a power budget.  This is oriented to systems that are battery operated, rather than plugged into a wall.
 
-* Quick and dirty [video on power budget](https://qr.scuttlerobot.org/g/RkNMzfI67w)
-* Template to [budget power in excel](https://qr.page/g/3fLXXbQFdPo) (pairs with the video)
+* Instructional [video on power budget](https://qr.scuttlerobot.org/g/RkNMzfI67w)
+* ⚠️Template for MXET [power budgets](https://qr.page/g/3fLXXbQFdPo) (updated 2023.08!)
+  *  Get the Excel Version [XLSX here](https://lobfile.com/file/M2Qt.xlsx)
 * Hands-on [instructions for testing](https://qr.page/g/IAg6YnIaPs) power with our tools.
 
 ## Power Bench
