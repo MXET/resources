@@ -114,7 +114,7 @@ It's a "smart" toolbox with each tool provided with video instructions.  This is
 
 ![tools_svg](/img/handTools2.svg)
 
-<iframe src="/html/export_html.html">
+<iframe src="https://raw.githubusercontent.com/MXET/resources/main/html/export_html.html">
 
 ## Feedback
 This system is designed for students, please give feedback using this form if you have requests.  If we get no feedback, this project gets much less support.
