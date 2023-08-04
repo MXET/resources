@@ -115,7 +115,9 @@ It's a "smart" toolbox with each tool provided with video instructions.  This is
 ![tools_svg](/img/handTools2.svg)
 
 <html>
-<iframe src="https://raw.githubusercontent.com/dmalawey/mxet/main/diagram/myEmbed.xml">
+<iframe src="https://github.com/dmalawey/mxet/raw/main/diagram/myEmbed.html">
+
+ 
 </html>
 
 ## Feedback
