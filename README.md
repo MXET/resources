@@ -112,7 +112,7 @@ It's a "smart" toolbox with each tool provided with video instructions.  This is
 
 ![magic schoolbox drawer](https://i.imgur.com/zZKRNVE.jpg)
 
-![tools_svg](/img/handTools.svg)
+![tools_svg](/img/handTools2.svg)
 
 ## Feedback
 This system is designed for students, please give feedback using this form if you have requests.  If we get no feedback, this project gets much less support.
