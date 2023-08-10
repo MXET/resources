@@ -144,7 +144,7 @@ This section contains resources for students making their own documentation.
 
 ## The Hugeness
 Don't underestimate your project. Consider how many paths your team ventured to produce a prototype.  Here is a sample of applications you may have used.  What is most critical for you to document?  Remember: the root of engineering is science and the root of science is repeatability of results.
-![MXET design applications](img/mxet_design_apps.svg ':class=image-50')
+![MXET design applications](img/mxet_design_apps.svg ':class=image-25')
 
 
 ## Docs Tips
