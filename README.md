@@ -110,7 +110,7 @@ The tools in this section are great for capstone projects but also have been use
 * [Round Wire Stripper](https://qr.scuttlerobot.org/g/2AplH9VFcYL)
 * [Flush Cutters](https://qr.page/g/3ffmXrqe0EX)
 
-# Magic Schoolbox
+## Magic Schoolbox
 It's a "smart" toolbox with each tool provided with video instructions.  This is a self-service station that is open for all to use in the Product Innovation Cellar.  
 
 ![magic schoolbox drawer](https://i.imgur.com/zZKRNVE.jpg)
