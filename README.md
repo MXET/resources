@@ -21,7 +21,7 @@ Resources for Multidisciplinary Engineering Education
  
   ![changelog image](https://i.imgur.com/zu2Jpuh.png)
   
-</details><div>
+</details></div>
 
 # Powered Electronics
 This subject often falls neatly in between the curriculum of other courses.  Therefore, this resource focuses heavily on powering electronics.
@@ -89,8 +89,7 @@ The Power Bench includes off-the-shelf testers, adapters, power supplies in the 
   
 </details>
 
-<details>
-  
+<details>  
   <summary>Electronics Accessories</summary>
 
   * [USB-C Breakout](https://www.amazon.com/gp/product/B09KC1SMGD), on amazon
@@ -98,8 +97,6 @@ The Power Bench includes off-the-shelf testers, adapters, power supplies in the 
   * [Power Breakout, ATX](https://www.amazon.com/gp/product/B07S91NQL3) on amazon. 
   
 </details>
-
-
 </div>
 
 ### Power Bench Instructions
@@ -129,8 +126,6 @@ It's a "smart" toolbox with each tool provided with video instructions.  This is
 
 <html>
 <iframe src="https://github.com/dmalawey/mxet/raw/main/diagram/myEmbed.html">
-
- 
 </html>
 
 ## Feedback
