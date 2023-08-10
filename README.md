@@ -5,10 +5,13 @@ Resources for Multidisciplinary Engineering Education
 | LEARNING | DESIGNING | DOCUMENTING |
 
 | [Web Page](https://qr.page/g/4ZptmdWxn5y ':class=button') 
-| [Github Repository](https://github.com/MXET/resources ':class=button') |
+| [Github Repository](https://github.com/MXET/resources ':class=button')
+| [change log](https://github.com/MXET/resources/commits/main ':class=button') |
 
 # Introduction
-To MXET students: If you are graduating before 2030, then ZERO of your professors have ever graduated from a multidisciplinary program.  You're in new territory and often times, the professor who is an expert in one part of your field may be a novice in the adjacent field which you study.  Because of this, you have the challenge of balancing the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.
+*Dear MXET students: If you are graduate before 2030, ZERO of your professors graduated from a multidisciplinary degree program. You're in new territory where at times, the professor who is an expert in one part of your field may be a novice in adjacent fields that you study.  Therefore, you are challenged to balance the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.*
+
+⚠️ To find the latest changes in this repository, see the changelog [here](https://github.com/MXET/resources/commits/main).
 
 # Powered Electronics
 This subject often falls neatly in between the curriculum of other courses.  Therefore, this resource focuses heavily on powering electronics.
