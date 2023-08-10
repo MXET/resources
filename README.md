@@ -1,3 +1,5 @@
+![banner image](img/banner.jpg ':class=banner-image')
+
 # MXET Resources
 Resources for Multidisciplinary Engineering Education
 
