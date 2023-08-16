@@ -175,28 +175,24 @@ _Figure: drawio integrations_
 
 Useful Draw.io steps:
 
-> See the [Quick Start Video](https://youtu.be/Z0D96ZikMkc)
-> 
-> Import custom libraries [instructions](https://drawio-app.com/blog/import-and-export-vsdx-files/) to get lots of free icons
-> 
-> Import visio diagrams [instruction](https://drawio-app.com/blog/import-and-export-vsdx-files)
-> 
-> Get icons curated specially for MXET [HERE](https://qr.page/g/4l8Rh9LDBRP)
-> 
-> Perform realtime [collaboration](https://youtu.be/4ejY7MmMUSg)
+* See the [Quick Start Video](https://youtu.be/Z0D96ZikMkc)
+* Import custom libraries [instructions](https://drawio-app.com/blog/import-and-export-vsdx-files/) to get lots of free icons
+* Import visio diagrams [instruction](https://drawio-app.com/blog/import-and-export-vsdx-files)
+* Get icons curated specially for MXET [HERE](https://qr.page/g/4l8Rh9LDBRP)
+* Perform realtime [collaboration](https://youtu.be/4ejY7MmMUSg)
 
 
 # Modern Manufacturing
-This section offers knowledge about manufacturing methods from 2010-2020 era, that may not have arrived your coursework.
+This section offers knowledge about manufacturing methods from 2010-2020 era, that may not appear your coursework.
 
 ---
 
 ## Design Knowledge
-These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifically geared towards MXET projects.
+This section focuses on Additive Manufacturing (AM) in the applied setting - geared towards MXET projects.
 
 ### Polymers
 
- > Polymers
+Polymer additive manufacturing requires knowledge of the manufacturing process just like any other manufacturing method.  "3d printing" is a misnomer as the printers and materials each have constraints you must learn.  We perform most of our printing with FDM (fused deposition modeling) and your print turnaround ranges from 1 day + $0 all the way to 2 weeks + $1000.  Knowledge is your best asset for productivity & successful prototyping.
  
 * [Applied Polymer FDM](https://qr.page/g/1lM33LCiZDm) explains a great deal of tips for polymer additive manufacturing
 * [Design for Printing - Part 1](https://qr.scuttlerobot.org/g/56uPKiUq0p) strategy for designing geometry
@@ -213,7 +209,7 @@ These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifi
 
 ### Metals
 
-> Metals
+Additive manufacturing with metals is most commonly performed with a powdered metal and high powered (200W+) laser.  The process requires upstream knowledge and DFM methods by the designer. In ETID we have a lab for SLM (selective laser melting) available to students who have studied the process and have an applicable academic project.
  
 * [Metal Additive Manufacturing - Part 1](https://qr.page/g/5qmDxtnBaG3) methods and limitations.
 * [Metal Additive Manufacturing Part 2](https://qr.page/g/528XoZspn3U) exploring applications.
@@ -228,7 +224,7 @@ These PDFs focus on Additive Manufacturing (AM) in the applied setting - specifi
 
 ---
 
-## Example Designs
+## Design Examples
 Each part has a special feature that make them examples to learn from.  But separately, you may find these parts useful in your project.
 
 > Polymers
@@ -245,7 +241,7 @@ Each part has a special feature that make them examples to learn from.  But sepa
 * [ETID Ring](https://grabcad.com/library/etid-aggie-ring-for-3d-printing-1) like an Aggie ring for ETID souvenir
 * [MXET Ring](https://grabcad.com/library/mxet-aggie-ring-for-3d-printing-1) like an Aggie ring for MXET souvenir
 
-## PIC Tools {#pic-tools}
+## PIC Tools
 The following machines are available in the Product Innovation Cellar (PIC) for students.  Access & safety is administered by Lab Coordinator [Doug Burnett](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html)
 
 Location: 009 Thompson Hall
