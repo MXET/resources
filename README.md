@@ -257,5 +257,19 @@ This includes the Conceptual Block Diagram, Concept of Operation, Performance Sp
 
 ... To be populated ► Check back soon!
 
+# More Tech
 
 
+
+## More Tech by DM:
+
+These resources are not part of the MXET program but you may find them beneficial to your MXET learning journey.
+
+| Link | short description |
+| ---- | ----------------- |
+| [SCUTTLE Tech Guide](https://qr.scuttlerobot.org/g/12J5i2t3bp4 ':class=button') | design info for open source robotics |
+| [Youtube Channel](https://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA ':class=button') | DM's youtube channel |
+| [Metal AM Lab](https://engineering.tamu.edu/etid/research/additive-manufacturing-laboratory.html ':class=button') | ETID Additive Manufacturing Lab for metals |
+| [SCUTTLE Discord](https://discord.gg/gSPyhTam9J ':class=button') | interact with robotics makers in realtime |
+| [OpenArm](https://qr.page/g/2wY5JrxcciD ':class=button') | modular arm design project - seeking contributors |
+| [Contact](https://engineering.tamu.edu/etid/profiles/malawey-david.html ':class=button') | public contact info |
