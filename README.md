@@ -245,6 +245,20 @@ Each part has a special feature that make them examples to learn from.  But sepa
 * [ETID Ring](https://grabcad.com/library/etid-aggie-ring-for-3d-printing-1) like an Aggie ring for ETID souvenir
 * [MXET Ring](https://grabcad.com/library/mxet-aggie-ring-for-3d-printing-1) like an Aggie ring for MXET souvenir
 
+## PIC Tools {#pic-tools}
+The following machines are available in the Product Innovation Cellar (PIC) for students.  Access & safety is administered by Lab Coordinator [Doug Burnett](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html)
+
+Location: 009 Thompson Hall
+Access Hours: 8am-5pm by ID Card Swipe 📛
+
+**Laser Cutter**
+Universal Laser PLS4.75 | [🔗 User Manual PLS4.75](https://lobfile.com/file/VRu5.pdf) | [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html) |
+
+**Drill Press**
+Jet Drill Press 2550 | [🔗 User Manual 2550](https://lobfile.com/file/bOsb.pdf) |  [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html) |
+
+**Band Saw**
+Jet Band Saw 708115K | [🔗 User Manual 708115K](https://lobfile.com/file/1Lnx.pdf) | [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html) |
 
 # Capstone Example
 Every capstone team submits their documentation before graduation but the new teams have varying access to examples.  This section uses an example capstone team called Flobotics with a product "Ventus," a robot designed to navigate through indoor greenhouses to collect sensor data.
