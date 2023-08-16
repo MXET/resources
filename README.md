@@ -26,7 +26,7 @@ Resources for Multidisciplinary Engineering Education
   </details>
 
 
-# Powered Electronics
+# Power Electronics
 This subject often falls neatly in between the curriculum of other courses.  Therefore, this resource focuses heavily on powering electronics.
 
 | Course         | Topic                              |
@@ -38,7 +38,7 @@ This subject often falls neatly in between the curriculum of other courses.  The
 | Control Systems| How to control power to a motor    |
 | (gap)          | How to evaluate a whole system?    |
 
-## Power Budgeting
+## Power Budget
 An introduction to creating a power budget.  This is oriented to systems that are battery operated, rather than plugged into a wall.
 
 * Instructional [video on power budget](https://qr.scuttlerobot.org/g/RkNMzfI67w)
@@ -46,10 +46,10 @@ An introduction to creating a power budget.  This is oriented to systems that ar
   *  Get the Excel Version [XLSX here](https://lobfile.com/file/M2Qt.xlsx)
 * Hands-on [instructions for testing](https://qr.page/g/IAg6YnIaPs) power with our tools.
 
-## Power Bench
+## Measure Power
 The Power Bench is a lab station for hands-on testing of powered electronics.
 
-![Power Bench image](https://i.imgur.com/y8rRf60.jpg ':class=image-50')
+![Power Bench image](https://i.imgur.com/y8rRf60.jpg ':class=image-25')
 
 ### Power Bench Design
 
@@ -148,23 +148,15 @@ Don't underestimate your project. Consider how many paths your team ventured to 
 
 
 ## Docs Tips
-1. Use dynamic QR codes
-  * post a file, hyperlink, or other content to a URL that you can change later.  Never lose a team link again.
-  * [QR code generator](https://the-qr-code-generator.com)
-2. Try Draw.io for diagrams
-  * Import/export visio, powerpoint, and vector graphics easily.
-  * Make [Nice Graphics in Draw.io](https://youtu.be/drq9eDgVSfo) in a breeze.
-  * [Icons library](https://qr.page/g/4l8Rh9LDBRP) for draw.io - download as .xml file and import into draw.io
-4. Submit a [3D Print request form](https://qr.page/g/4T5bfQF9eAW) for desktop prints in ETID.
-5. Getting help: [Ask questions the smart way](https://linuxsilo.net/docs/smart-questions_en.html) and you will be successful.
-  * For Hardware or Software | Faculty or peers | academic or professional |
-6. For the Love of God - date your work & version your docs
-  * 'Final Draft' does not exist.  The 3rd version is v3.0.  The submitted version is v3.0-submitted.
-7. Discover ShareX
-  * capture on-screen GIF in seconds
-  * take snippets & upload + shorten hyperlink in one click.
-  * convert all of your images to lightweight PNG or JPG.
-  * soooo much more.  It's GOLD 🪙
+
+| Tip                                                                                                                             | Details                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1\. Use dynamic QR codes                                                                                                        |   👉 post a file, hyperlink, or other content to a URL that you can change later.  Never lose a team link again.<br>  \* [QR code generator](https://the-qr-code-generator.com)                                                                                         |
+| 2\. Try Draw.io for diagrams                                                                                                    |   👉 Import/export visio, powerpoint, and vector graphics easily.<br>  👉 Make [Nice Graphics in Draw.io](https://youtu.be/drq9eDgVSfo) in a breeze.<br>  👉 [Icons library](https://qr.page/g/4l8Rh9LDBRP) for draw.io - download as .xml file and import into draw.io |
+| 4\. Submit a [3D Print request form](https://qr.page/g/4T5bfQF9eAW)                                                             | 👉 Get desktop-quality prints in ETID                                                                                                                                                                                                                                   |
+| 5\. [Ask questions the smart way](https://linuxsilo.net/docs/smart-questions_en.html)  |   👉 To get eager and useful replies.  👉 For Hardware or Software, Faculty or peers, academic or professional                                                                                                                                                                                               |
+| 6\. For the Love of God - version your docs                                                                    |   👉 Date all your work. 👉 'Final Draft' does not exist.  The 3rd version is v3.0.  The submitted version is v3.0-submitted.                                                                                                                                                                  |
+| 7\. Discover ShareX                                                                                                             |   👉 capture on-screen GIF in seconds<br>  👉 take snippets & upload + shorten hyperlink in one click.<br>  👉 convert all of your images to lightweight PNG or JPG.<br>  👉 soooo much more.  It's GOLD 🪙                                                             |
 
 ## Diagrams
 Special section here to introduce [Draw.io](https://Draw.io) - What I love about this application is that it's portable, and not locked in.  Anything you build in draw.io can be copied neatly over to other applications such as powerpoint, visio, etc.  So, when you need it, it's there.  When you don't you export.
