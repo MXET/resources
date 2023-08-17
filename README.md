@@ -260,6 +260,21 @@ This includes the Conceptual Block Diagram, Concept of Operation, Performance Sp
 
 ... To be populated ► Check back soon!
 
+## Sourcing
+This section will list recommended vendors for each type of need.
+
+A Quick few to begin:
+* Fasteners with CAD & detailed material specs: Mcmaster
+* Electrical components - extremely detailed data: Mouser
+* Electronics if Mouser doesn't have it: Digikey
+* Fasteners urgent (pickup same-day): Ace Bolt and Screw in Bryan TX (8am to 4pm weekdays) [Google Profile](https://goo.gl/maps/Xfz9QEHyTi576wtTA)
+* custom plates, plastic & metal: Send-cut-send (provide a DXF)
+* Electrical gadgets (such as a sensor on a board with example code): adafruit
+* Electronics like adafruit, slightly lower cost: sparkfun
+* Common Electrical, nonbranded, like stepper motors: amazon, for best price
+
+![ace bolt](https://lh3.googleusercontent.com/p/AF1QipN0zb67ZHvLXvpUM4hBlAEXEYRE_ySQtyARrnx_=s1360-w1360-h1020)
+
 # More Tech
 
 
