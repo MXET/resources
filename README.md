@@ -237,8 +237,12 @@ Each part has a special feature that make them examples to learn from.  But sepa
 Product Innovation Cellar = PIC at Texas A&M. The following machines are available in the Product Innovation Cellar (PIC) for students.  Access & safety is administered by Lab Coordinator [Doug Burnett](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html)
 
 **Location:** 009 Thompson Hall
+
 **Access Hours:** 8am-6:30pm by ID Card Swipe 📛, + all hours LC is present in lab.
+
 **Access Approval:** all enrolled in 419 and 420 (by default) + any student with LC accompanyment.
+
+----------------
 
 **Laser Cutter**
 Universal Laser PLS4.75 | [🔗 User Manual PLS4.75](https://lobfile.com/file/VRu5.pdf) | [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html) |
