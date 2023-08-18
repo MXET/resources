@@ -249,7 +249,7 @@ Jet Drill Press 2550 | [🔗 User Manual 2550](https://lobfile.com/file/bOsb.pdf
 **Band Saw**
 Jet Band Saw 708115K | [🔗 User Manual 708115K](https://lobfile.com/file/1Lnx.pdf) | [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html) |
 
-# Capstone Example
+# Capstone
 Every capstone team submits their documentation before graduation but the new teams have varying access to examples.  This section uses an example capstone team called Flobotics with a product "Ventus," a robot designed to navigate through indoor greenhouses to collect sensor data.
 
 ## Web Page
@@ -258,7 +258,13 @@ Every capstone team submits their documentation before graduation but the new te
 ## Design Concept
 This includes the Conceptual Block Diagram, Concept of Operation, Performance Specifications, and Functional Block Diagram
 
-... To be populated ► Check back soon!
+### Conceptual Block Diagram
+![flobotic_cbd](https://github.com/MXET/resources/assets/42623372/50bf826a-ee60-4538-a809-8cd5131251c6 ':class=image-25')
+
+
+This is a simple CBD, conceptual block diagram.  [CLICK HERE](https://github.com/dmalawey/mxet/blob/main/flobotic_cbd.drawio) to grab the source file in draw.io format.
+
+... To be further populated ► heck back soon!
 
 ## Sourcing
 This section will list recommended vendors for each type of need.
