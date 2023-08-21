@@ -46,8 +46,10 @@ An introduction to creating a power budget.  This is oriented to systems that ar
   *  Get the Excel Version [XLSX here](https://lobfile.com/file/M2Qt.xlsx)
 * Hands-on [instructions for testing](https://qr.page/g/IAg6YnIaPs) power with our tools.
 
-![power testing](https://img.youtube.com/vi/DKPFsVOTJpw/maxresdefault.jpg ':class=image-25')
-<br>[See on Youtube](https://youtu.be/DKPFsVOTJpw ':class=button')
+| Test Power | Make a Power Budget |
+| ------------------- | ---------- | 
+| ![pwr-budget](https://img.youtube.com/vi/s4Syzco1ziM/mqdefault.jpg) | ![pwr-testing](https://img.youtube.com/vi/DKPFsVOTJpw/mqdefault.jpg) |
+| [On Youtube](https://youtu.be/s4Syzco1ziM ':class=button')        | [On Youtube](https://youtu.be/DKPFsVOTJpw ':class=button')         |
 
 ## Measure Power
 The Power Bench is a lab station for hands-on testing of powered electronics.
