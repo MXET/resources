@@ -46,6 +46,11 @@ An introduction to creating a power budget.  This is oriented to systems that ar
   *  Get the Excel Version [XLSX here](https://lobfile.com/file/M2Qt.xlsx)
 * Hands-on [instructions for testing](https://qr.page/g/IAg6YnIaPs) power with our tools.
 
+<details>
+  <summary> Power Budget Videos </summary>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/s4Syzco1ziM" title="3 Ways to test Power Draw for mechatronics designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
+
 ## Measure Power
 The Power Bench is a lab station for hands-on testing of powered electronics.
 
