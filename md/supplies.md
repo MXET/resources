@@ -1,6 +1,7 @@
 ## Recommended supplies for ESET & MXET
 
-[view as a web page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/MXET/resources/md&sidebar=true&loadFavicon=/img/icon.png&browser-tab-title=OpenArm&zoom-images=true#/)
+[view as a web page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/MXET/resources/main/md&homepage=supplies.md&sidebar=true&zoom-images=true)
+[view source](https://github.com/MXET/resources/md/)
 
 | Item | Link | comment |
 | ---- | ---- | ------- |
