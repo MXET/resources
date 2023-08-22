@@ -41,10 +41,10 @@ This subject often falls neatly in between the curriculum of other courses.  The
 ## Power Budget
 An introduction to creating a power budget.  This is oriented to systems that are battery operated, rather than plugged into a wall.
 
-* Instructional [video on power budget](https://qr.scuttlerobot.org/g/RkNMzfI67w)
-* ⚠️Template for MXET [power budgets](https://qr.page/g/3fLXXbQFdPo) (updated 2023.08!)
+* Template for MXET [Power budget PDF](https://qr.page/g/3fLXXbQFdPo) (⚠️ updated 2023.08)
   *  Get the Excel Version [XLSX here](https://lobfile.com/file/M2Qt.xlsx)
-* Hands-on [instructions for testing](https://qr.page/g/IAg6YnIaPs) power with our tools.
+
+### Instructional Videos
 
 | Test Power | Make a Power Budget |
 | ------------------- | ---------- | 
@@ -73,7 +73,7 @@ The Power Bench includes off-the-shelf testers, adapters, power supplies in the 
 </details>
 
 <details>
-  <summary>Modules - Hardware</summary>
+  <summary>Hardware</summary>
 
   Design files  
   _you can access STL for printing, SOLIDWORKS for modifying, or STEP for building assembleies in your own CAD software_
@@ -86,14 +86,16 @@ The Power Bench includes off-the-shelf testers, adapters, power supplies in the 
 
 <details>
   
-  <summary>Modules - Instruments</summary>
+  <summary>Instruments</summary>
 
-  * [CBA IV User Manual](https://qr.page/g/2Gbm5eF5LD9) in PDF format.
-  * [Power Supply, ATX](https://www.thermaltakeusa.com/toughpower-gx2-600w.html) model Toughpower GX2 600W.
-  * [Power Supply, USB-C](https://qr.page/g/51rwPdnPbKS) model 818H, 120w, manual in PDF 
-  * [Power Meter, DC](https://qr.page/g/40KLe1ff1lB) manual in PDF format.
-  * [Power Meter, AC](https://qr.page/g/2Gz7zQ1hXL5) manual in PDF format.
-  * [Power Meter, USB-C](https://qr.page/g/2fG6cJvZi27) manual in PDF format.
+| Utility | Device | Link or PDF |
+| ------- | ------ | ----------- |
+| Power Supply, 600W | ATX Power supply GX2 by Thermaltake | [GX2 User Manual](https://www.thermaltakeusa.com/toughpower-gx2-600w.html) |
+| Power Supply, USB 120w | 818H GaN hub from Amazon |  [USB Power Supply - PDF](https://qr.page/g/51rwPdnPbKS) |
+| Load, Controllable with Logger | CBA by West Mountain Radio | [CBA IV User Manual](https://qr.page/g/2Gbm5eF5LD9) in PDF format. |
+| DC Power Meter, 45A continuous | Powerwerx | [Power Meter Manual](https://qr.page/g/40KLe1ff1lB) |
+| Power Meter, AC | Amazon Product | [Power Meter, AC](https://qr.page/g/2Gz7zQ1hXL5) manual in PDF format. |
+| Power Meter, USB-C | Amazon Product | [Power Meter, USB-C](https://qr.page/g/2fG6cJvZi27) manual in PDF format. |
   
 </details>
 
