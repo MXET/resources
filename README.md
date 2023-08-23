@@ -260,6 +260,29 @@ Jet Drill Press 2550 | [🔗 User Manual 2550](https://lobfile.com/file/bOsb.pdf
 **Band Saw**
 Jet Band Saw 708115K | [🔗 User Manual 708115K](https://lobfile.com/file/1Lnx.pdf) | [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html) |
 
+## Monthly Teardowns
+_Starting September 1st I will lead monthly teardowns in the PIC on Fridays at 12pm noon.  Participants who join will have a chance to disassemble a mechatronics machine and learn what is inside, and how it was made.  This is open to any ETID student who wishes to join._
+
+After we see how the first teardown goes, I'll consider the following:
+* Photo albums for each teardown
+* Video explanations of what we find
+* How to choose the next machine for teardown.
+* documenting tools used for disassembly and how to use them
+* crowd-voting on the next teardown
+
+**September Teardown:**
+Reclining chair containing heaters, vibrators, a handheld controller, AC/DC converters, and linear actuator.
+
+| Photo 1 | Photo 2 | Photo 3 |
+| ------- | ------- | ------- |
+| ![img1](https://i.imgur.com/7ZpcIwY.jpg) | ![img2](https://i.imgur.com/9cUfbzs.jpg) | ![img3](https://i.imgur.com/L0BYT9B.jpg) | 
+
+
+**October Teardown:**
+Gasoline-powered pressure washer
+
+
+
 # Capstone
 Every capstone team submits their documentation before graduation but the new teams have varying access to examples.  This section uses an example capstone team called Flobotics with a product "Ventus," a robot designed to navigate through indoor greenhouses to collect sensor data.
 
