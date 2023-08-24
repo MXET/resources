@@ -1,14 +1,9 @@
 ![banner image](img/banner.jpg ':class=banner-image')
 
 # MXET Resources
-Resources for Multidisciplinary Engineering Education
+Resources for Multidisciplinary Engineering Education.  #Mechatronics #Robotics #AppliedLearning #IoT #Fabrication
 
-
-| LEARNING | DESIGNING | DOCUMENTING |
-
-| [Web Page](https://qr.page/g/4ZptmdWxn5y ':class=button') 
-| [Github Repository](https://github.com/MXET/resources ':class=button')
-| [Change Log](https://github.com/MXET/resources/commits/main ':class=button') |
+### | [Web Page](https://qr.page/g/4ZptmdWxn5y ':class=button') | [Github Repository](https://github.com/MXET/resources ':class=button') | [Change Log](https://github.com/MXET/resources/commits/main ':class=button') |
 
 # Introduction
 *Dear MXET students: If you are graduate before 2030, ZERO of your professors graduated from a multidisciplinary degree program. You're in new territory where at times, the professor who is an expert in one part of your field may be a novice in adjacent fields that you study.  Therefore, you are challenged to balance the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.*
