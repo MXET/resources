@@ -261,6 +261,11 @@ Jet Drill Press 2550 | [🔗 User Manual 2550](https://lobfile.com/file/bOsb.pdf
 Jet Band Saw 708115K | [🔗 User Manual 708115K](https://lobfile.com/file/1Lnx.pdf) | [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html) |
 
 ## Monthly Teardowns
+
+>
+> “When you want to know how things really work, study them when they are coming apart.” - William Gibson
+>
+
 _Starting September 1st I will lead monthly teardowns in the PIC on Fridays at 12pm noon.  Participants who join will have a chance to disassemble a mechatronics machine and learn what is inside, and how it was made.  This is open to any ETID student who wishes to join._
 
 After we see how the first teardown goes, I'll consider the following:
@@ -270,6 +275,9 @@ After we see how the first teardown goes, I'll consider the following:
 * documenting tools used for disassembly and how to use them
 * crowd-voting on the next teardown
 
+#### Teardowns by Month
+
+<details><summary> Expand for Plans & Logs </summary>
 **September Teardown:**
 Reclining chair containing heaters, vibrators, a handheld controller, AC/DC converters, and linear actuator.
 
@@ -280,7 +288,7 @@ Reclining chair containing heaters, vibrators, a handheld controller, AC/DC conv
 
 **October Teardown:**
 Gasoline-powered pressure washer
-
+</details>
 
 
 # Capstone
