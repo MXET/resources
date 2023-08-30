@@ -199,7 +199,8 @@ Polymer additive manufacturing requires knowledge of the manufacturing process j
 
 | Polymer DFM Basics                    | Polymer DFM Fasteners                  |
 | ------------------------------------- | -------------------------------------- | 
-| <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div> | <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div> |
+| <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div> | <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/LMyhFwJscI0"></iframe></div></div> |
+| [On Youtube](https://youtu.be/HYnm2MD0Nks ':class=button')        | [On Youtube](https://youtu.be/LMyhFwJscI0 ':class=button')         |
 
 ### Metals
 
