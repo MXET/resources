@@ -197,8 +197,8 @@ Polymer additive manufacturing requires knowledge of the manufacturing process j
 > Knowledgebase ETID
 > [Deltaform Printer](https://lobfile.com/file/0cJ0.zip) printer documents from manufacturer, iSolids.
 
-| Polymer DFM Basics | Polymer DFM Fasteners |
-| ------------------ | --------------------- | 
+| Polymer DFM Basics                    | Polymer DFM Fasteners                  |
+| ------------------------------------- | -------------------------------------- | 
 | <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div> | <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div> |
 
 ### Metals
