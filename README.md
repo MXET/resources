@@ -275,7 +275,11 @@ After we see how the first teardown goes, I'll consider the following:
 
 <details><summary> Expand for Plans & Logs </summary>
 **September Teardown:**
-Reclining chair containing heaters, vibrators, a handheld controller, AC/DC converters, and linear actuator.
+  **Location** this one will take place off-campus (space is not yet ready in Thompson Hall).  The distance is 3.4 miles to the SCUTTLE Lab. Please email dmalawey@tamu.edu if you would like to attend.  
+
+  **Livestream** video on [youtube here](https://youtube.com/live/9q7PQfnyYOc?feature=share).
+  
+  Reclining chair containing heaters, vibrators, a handheld controller, AC/DC converters, and linear actuator.
 
 | Photo 1 | Photo 2 | Photo 3 |
 | ------- | ------- | ------- |
