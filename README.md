@@ -241,7 +241,7 @@ Each part has a special feature that make them examples to learn from.  But sepa
 * A simple [Broomstick Thread](https://grabcad.com/library/broomstick-thread-1) to adapt tools or #end-effectors to your CAD design
 | Applications | CAD Snapshot | Printed Part |
 | ------------ | ------------ | ------------ |
-| ![img_apps](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2a1d641de848e142003c98dc891b00b1/large.jpg) ) | ![img_cad_snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/8edeff9a6f781896d264fe8bcba1580a/large.PNG) | ![img_printed_part](https://www.thermaltakeusa.com/toughpower-gx2-600w.html) |
+| ![img_apps](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2a1d641de848e142003c98dc891b00b1/large.jpg) ) | ![img_cad_snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/8edeff9a6f781896d264fe8bcba1580a/large.PNG) | ![img_printed_part](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/670c08c54616c7b7f6c1f7d5e8c66afa/large.jpg) |
 
 
 ## PIC Tools
