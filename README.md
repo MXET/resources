@@ -217,6 +217,11 @@ Polymer additive manufacturing requires knowledge of the manufacturing process j
 | <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe></div></div> | <div class="video-container-4by3"><div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/LMyhFwJscI0"></iframe></div></div> |
 | [On Youtube](https://youtu.be/HYnm2MD0Nks ':class=button')        | [On Youtube](https://youtu.be/LMyhFwJscI0 ':class=button')         |
 
+> Working with Polymers
+* Cutting & working with HDPE [A Great PDF Guide by a manufacturer](https://www.emcoplastics.com/assets/pdf/HDPE/HDPE%20Fabrication%20Guide.pdf)
+* This is one of the most useful but troubling plastics.  It's very tough, very affordable, and chemical resistant, but it has a lot of "buts."  For example, YOU CANNOT LASER CUT IT, it's incredibly difficult to glue, and when cutting, it gums up the teeth of saws and blades when using typical speeds/feeds.  So, it deserves it's own guide.
+
+
 ### Metals
 
 Additive manufacturing with metals is most commonly performed with a powdered metal and high powered (200W+) laser.  The process requires upstream knowledge and DFM methods by the designer. In ETID we have a lab for SLM (selective laser melting) available to students who have studied the process and have an applicable academic project.
