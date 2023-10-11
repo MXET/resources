@@ -148,9 +148,12 @@ Handy sites for researching what you need:
 | Find a Software | [alternativeto.net](https://alternativeto.net/) | Find a free software to get a job done more efficiently | N4 |
 
 > Notes:
-> N1 ► Makeitfrom has a peculiar search function - if you can't find what you need, it's best to return to google and enter "makeitfrom.com mymaterial" to let Google do the searching. 
+> N1 ► Makeitfrom has a peculiar search function - best way to search: visit google.com and enter [makeitfrom" mymaterial] with quotes around "makeitfrom" to let Google do the searching.
+> 
 > N2 ► Don't think of Mcmaster as a shopping store.  For many OTS parts, you can do your research at McMaster and do your shopping where it suits you best.  For example, I bought screws at Home Depot in a pinch, and since they don't come with specs like tensile strength, I found this data on Mcmaster for the same material.  Also go there to grab a CAD model of your fasteners and more.
+>
 > N3 ► Please do not reinvent the wheel.  Students often spend a week to design a bracket that already exists. 8020 is recommended because they share extensive details to help you plan.  But moreover, whenever you buy a cheap Amazon part, you can find its' LEADING BRAND equivalent, visit the MANUFACTURER's website, and find tons of resources that put you ahead in your design process.  The Manufacturers want you to succeed with their brand, while the distributor (such as amazon) just wants to make a sale.
+>
 > N4 ► It's funny, sometimes freeware outperforms expensive softwares, and this is becoming more true over time.  Also, they tend to last a long time (20 years) because the company can't crash and close down due to profits.  This site comes in handy when you operate a Linux, OS, or Windows machine and your software of interest is not compatible.  Find equivalent tools quickly and filter by Operating System.
  
 # Documentation
