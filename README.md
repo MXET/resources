@@ -368,9 +368,9 @@ Best* Sources to begin:
 | Custom plates | Send-cut-send | for plastic & metal that cant go on our laser cutter (provide a DXF) |
 | Sensors | [adafruit](https://adafruit.com) | for components like Mouser, but ready-integrated on a PCB with example code | 
 | Sensors | [sparkfun](https://sparkfun.com) | for wider range than Adafruit but less thoroughly documented |
-| Pneumatics | AutomationDirect(https://www.automationdirect.com) | for industry-rated controllers, fittings, connectors |
+| Pneumatics | [AutomationDirect](https://www.automationdirect.com) | for industry-rated controllers, fittings, connectors |
 | Aluminum extrusion | AutomationDirect | for best price and CUT FOR FREE within 1mm accuracy |
-| Paints & coatings | Grainger | for TAMU discount & wide selection |
+| Paints & coatings | [Grainger](https://grainger.com) | for TAMU discount & wide selection |
 
 > **What do we mean by the "best source"?**
 > For students & prototypers we are looking for these qualities:
