@@ -355,17 +355,33 @@ This is a simple CBD, conceptual block diagram.  [CLICK HERE](https://github.com
 ... To be further populated ► heck back soon!
 
 ## Sourcing
-This section will list recommended vendors for each type of need.
+What vendor should you shop?.
 
-A Quick few to begin:
-* Fasteners with CAD & detailed material specs: Mcmaster
-* Electrical components - extremely detailed data: Mouser
-* Electronics if Mouser doesn't have it: Digikey
-* Fasteners urgent (pickup same-day): Ace Bolt and Screw in Bryan TX (8am to 4pm weekdays) [Google Profile](https://goo.gl/maps/Xfz9QEHyTi576wtTA)
-* custom plates, plastic & metal: Send-cut-send (provide a DXF)
-* Electrical gadgets (such as a sensor on a board with example code): adafruit
-* Electronics like adafruit, slightly lower cost: sparkfun
-* Common Electrical, nonbranded, like stepper motors: amazon, for best price
+Best* Sources to begin:
+
+| Find this | here | for this reason |
+| ------- | ------- | --------- |
+| Fasteners | [McMaster](https://www.mcmastercarr.com) | with CAD & detailed material specs |
+| Electrical components | [Mouser](https://mouser.com) | extremely detailed data & filters |
+| Electrical | [Digikey](https://digikey.com) | if Mouser doesn't have it |
+| Fasteners | [Ace Bolt & Screw](https://goo.gl/maps/Xfz9QEHyTi576wtTA) | if you need local pickup. Bryan TX (8am to 4pm weekdays) |
+| Custom plates | Send-cut-send | for plastic & metal that cant go on our laser cutter (provide a DXF) |
+| Sensors | [adafruit](https://adafruit.com) | for components like Mouser, but ready-integrated on a PCB with example code | 
+| Sensors | [sparkfun](https://sparkfun.com) | for wider range than Adafruit but less thoroughly documented |
+| Pneumatics | AutomationDirect(https://www.automationdirect.com) | for industry-rated controllers, fittings, connectors |
+| Aluminum extrusion | AutomationDirect | for best price and CUT FOR FREE within 1mm accuracy |
+| Paints & coatings | Grainger | for TAMU discount & wide selection |
+
+> **What do we mean by the "best source"?**
+> For students & prototypers we are looking for these qualities:
+> A) They are experts at something:  They know more about the product applications than you do.
+> B) They offer documents: Datasheets, CAD, and Brochures that help you choose engineering parts.
+> C) They offer data: actual metrics for the products (tensile strength or power consumption, etc.) and offer filtering.
+> D) They can sort by application: You might not know which polymers are food-safe, for example but you can filter by food-rated, non-conductive, etc.
+> E) Their inventory tracking is SERIOUS.  They supply engineers with time-critical deadlines and they don't mess around like Walmart, cancelling your orders randomly, etc.
+> F) They always have a PART NUMBER. Part number means there's a Brand, or a guarantee the part can be traced 10 years later.
+> >
+
 
 ![ace bolt](https://lh3.googleusercontent.com/p/AF1QipN0zb67ZHvLXvpUM4hBlAEXEYRE_ySQtyARrnx_=s1360-w1360-h1020)
 
