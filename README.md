@@ -355,7 +355,8 @@ This is a simple CBD, conceptual block diagram.  [CLICK HERE](https://github.com
 ... To be further populated ► heck back soon!
 
 ## Sourcing
-What vendor should you shop?.
+
+#### What vendor should you shop?.
 
 Best* Sources to begin:
 
@@ -373,17 +374,22 @@ Best* Sources to begin:
 | Paints & coatings | [Grainger](https://grainger.com) | for TAMU discount & wide selection |
 
 > **What do we mean by the "best source"?**
+>
 > For students & prototypers we are looking for these qualities:
+>
 > A) They are experts at something:  They know more about the product applications than you do.
+>
 > B) They offer documents: Datasheets, CAD, and Brochures that help you choose engineering parts.
+>
 > C) They offer data: actual metrics for the products (tensile strength or power consumption, etc.) and offer filtering.
+>
 > D) They can sort by application: You might not know which polymers are food-safe, for example but you can filter by food-rated, non-conductive, etc.
+>
 > E) Their inventory tracking is SERIOUS.  They supply engineers with time-critical deadlines and they don't mess around like Walmart, cancelling your orders randomly, etc.
+>
 > F) They always have a PART NUMBER. Part number means there's a Brand, or a guarantee the part can be traced 10 years later.
 > >
 
-
-![ace bolt](https://lh3.googleusercontent.com/p/AF1QipN0zb67ZHvLXvpUM4hBlAEXEYRE_ySQtyARrnx_=s1360-w1360-h1020)
 
 # More Tech
 
