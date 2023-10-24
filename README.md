@@ -275,8 +275,9 @@ Each part has a special feature that make them examples to learn from.  But sepa
 | ![img_apps](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2a1d641de848e142003c98dc891b00b1/large.jpg) ) | ![img_cad_snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/8edeff9a6f781896d264fe8bcba1580a/large.PNG) | ![img_printed_part](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/670c08c54616c7b7f6c1f7d5e8c66afa/large.jpg) |
 
 
-## PIC Tools
-Product Innovation Cellar = PIC at Texas A&M. The following machines are available in the Product Innovation Cellar (PIC) for students.  Access & safety is administered by Lab Coordinator [Doug Burnett](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html)
+## Machines & Tools
+
+Product Innovation Cellar = PIC at Texas A&M. These machines are available in the Product Innovation Cellar (PIC) for students.  Access & safety is administered by Lab Coordinator [Doug Burnett](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html)
 
 **Location:** 009 Thompson Hall
 
@@ -294,6 +295,19 @@ Jet Drill Press 2550 | [🔗 User Manual 2550](https://lobfile.com/file/bOsb.pdf
 
 **Band Saw**
 Jet Band Saw 708115K | [🔗 User Manual 708115K](https://lobfile.com/file/1Lnx.pdf) | [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html) |
+
+--------------
+
+These machines are available in the Thompson Hall for ETID undergraduates.
+
+**Metal Additive**
+Metal Printer AM400  | [🔗 User Manual 708115K](https://lobfile.com/file/wbTQ.pdf)  | [AM Lab Page](https://engineering.tamu.edu/etid/research/additive-manufacturing-laboratory.html) |
+
+**CNC Waterjet**
+Globalmax 1508 | [🔗 User Manual 708115K](https://lobfile.com/file/2uGk.pdf)  | [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/smith-christopher.html) |
+
+--------------
+
 
 ## Monthly Teardowns
 
