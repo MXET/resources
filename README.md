@@ -193,7 +193,14 @@ Useful Draw.io steps:
 * Get icons curated specially for MXET [HERE](https://qr.page/g/4l8Rh9LDBRP)
 * Perform realtime [collaboration](https://youtu.be/4ejY7MmMUSg)
 
-# Hole Challenge
+
+
+# Modern Manufacturing
+This section offers knowledge about manufacturing methods from 2010-2020 era, that may not appear your coursework.
+
+---
+
+## Hole Challenge
 
 > Award: $50
 >
@@ -207,12 +214,11 @@ Useful Draw.io steps:
 > Timeline: Challenge begins November 1 2023.  On January 1st, 2024, the award will increase if we have not found a winner.  Only MXET students can participate.
 >
 
+![tin can hole](https://i.imgur.com/uSZOhYg.jpeg)
+
 __Please see David for materials.  To win, collect the sample (lid from any tin can) from the professor and bring it to one of your technical lab coordinators.  The purpose of the challenge is to help students discover which professors are NPC on your engineering journey. Remember, Aggies do not lie, cheat, or steal ♥.__
 
-# Modern Manufacturing
-This section offers knowledge about manufacturing methods from 2010-2020 era, that may not appear your coursework.
 
----
 
 ## Design Knowledge
 This section focuses on Additive Manufacturing (AM) in the applied setting - geared towards MXET projects.
