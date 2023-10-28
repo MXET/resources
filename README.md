@@ -193,6 +193,21 @@ Useful Draw.io steps:
 * Get icons curated specially for MXET [HERE](https://qr.page/g/4l8Rh9LDBRP)
 * Perform realtime [collaboration](https://youtu.be/4ejY7MmMUSg)
 
+# Hole Challenge
+
+> Award: $50
+>
+> 
+> Challenge: Find a professor who can drill a hole.
+>
+> 
+> Terms: Professor must make the hole without any assistance.  The hole must be round without burr, with a diameter 12mm +/- 0.25mm.
+>
+> 
+> Timeline: Challenge begins November 1 2023.  On January 1st, 2024, the award will increase if we have not found a winner.  Only MXET students can participate.
+>
+
+__Please see David for materials.  To win, collect the sample (lid from any tin can) from the professor and bring it to one of your technical lab coordinators.  The purpose of the challenge is to help students discover which professors are NPC on your engineering journey. Remember, Aggies do not lie, cheat, or steal ♥.__
 
 # Modern Manufacturing
 This section offers knowledge about manufacturing methods from 2010-2020 era, that may not appear your coursework.
@@ -204,7 +219,7 @@ This section focuses on Additive Manufacturing (AM) in the applied setting - gea
 
 ### Polymers
 
-Polymer additive manufacturing requires knowledge of the manufacturing process just like any other manufacturing method.  "3d printing" is a misnomer as the printers and materials each have constraints you must learn.  We perform most of our printing with FDM (fused deposition modeling) and your print turnaround ranges from 1 day + $0 all the way to 2 weeks + $1000.  Knowledge is your best asset for productivity & successful prototyping.
+Polymer additive manufacturing requires knowledge of the manufacturing process just like any other manufacturing method.  "3d printing" is a misnomer as the printers and materials each have constraints you must learn.  We perform most of our printing with FDM (fused deposition modeling) and your print turnaround ranges from 1 day to 14 days. Cost ranges from free to thousands.  Knowledge is your best asset for productivity & successful prototyping.
  
 * [Applied Polymer FDM](https://qr.page/g/1lM33LCiZDm) explains a great deal of tips for polymer additive manufacturing
 * [Design for Printing - Part 1](https://qr.scuttlerobot.org/g/56uPKiUq0p) strategy for designing geometry
