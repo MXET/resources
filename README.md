@@ -6,10 +6,16 @@ Resources for Multidisciplinary Engineering Education.  #Mechatronics #Robotics 
 ### | [Web Page](https://qr.page/g/4ZptmdWxn5y ':class=button') | [Github Repository](https://github.com/MXET/resources ':class=button') | [Change Log](https://github.com/MXET/resources/commits/main ':class=button') |
 
 # Introduction
-*Dear MXET students: If you are graduate before 2030, ZERO of your professors graduated from a multidisciplinary degree program. You're in new territory where at times, the professor who is an expert in one part of your field may be a novice in adjacent fields that you study.  Therefore, you are challenged to balance the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.*
+<details>
+  <summary> Dear MXET & ESET students, </summary>
+If you are graduate before 2030, ZERO of your professors graduated from a multidisciplinary degree program. You're in new territory where at times, the professor who is an expert in one part of your field may be a novice in adjacent fields that you study.  Therefore, you are challenged to balance the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.*
+  </details>
+  
+---------------------------------------
 
 <details>
-  <summary>⚠️ To see latest changes</summary>
+  
+  <summary>⚠️ To view the latest updates: </summary>
   
   [click here](https://github.com/MXET/resources/commits/main ':class=button')
   to see the change log.
@@ -22,6 +28,9 @@ Resources for Multidisciplinary Engineering Education.  #Mechatronics #Robotics 
 
 
 # Power Electronics
+
+## ► In your Curriculum
+
 This subject often falls neatly in between the curriculum of other courses.  Therefore, this resource focuses heavily on powering electronics.
 
 | Course         | Topic                              |
@@ -33,7 +42,8 @@ This subject often falls neatly in between the curriculum of other courses.  The
 | Control Systems| How to control power to a motor    |
 | (gap)          | How to evaluate a whole system?    |
 
-## Power Budget
+## ► Power Budget
+
 An introduction to creating a power budget.  This is oriented to systems that are battery operated, rather than plugged into a wall.
 
 * Template for MXET [Power budget PDF](https://qr.page/g/3fLXXbQFdPo) (⚠️ updated 2023.08)
@@ -196,7 +206,7 @@ Useful Draw.io steps:
 
 
 # Modern Manufacturing
-This section offers knowledge about manufacturing methods from 2010-2020 era, that may not appear your coursework.
+Manufacturing methods from 2010+ era which may not appear your coursework.
 
 ---
 
@@ -307,6 +317,38 @@ Product Innovation Cellar = PIC at Texas A&M. These machines are available in th
 **Access Approval:** all enrolled in 419 and 420 (by default) + any student with LC accompanyment.
 
 ----------------
+
+### Details about Lab Access
+<details>
+  <summary> Click to expand.</summary>
+  
+  **ID Card-Entry access Types:**
+
+1. Automatic with course enrollment
+2. By request, for project team
+3. Only accompanied with staff/faculty
+4. Not served by the PIC or only with specially coordinated projects
+
+**ESET undergrads**
+
+* Enrolled in 419:  2
+* Enrolled in 420: 1
+
+
+**MMET undergrads**
+
+* Enrolled in 429:  4
+* Enrolled in 422: 3
+
+
+**MXET undergrads**
+* Access corresponds to your Capstone Program (ESET or MMET)
+
+**Grad Students**
+* grad students having ETID faculty advisor: 3 
+* Other TAMU engineering grad students: 4
+
+</details>
 
 **Laser Cutter**
 Universal Laser PLS4.75 | [🔗 User Manual PLS4.75](https://lobfile.com/file/VRu5.pdf) | [🔗 Safety Rules ► refer to LC](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html) |
