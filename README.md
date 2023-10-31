@@ -175,6 +175,7 @@ Handy sites for researching what you need:
 | Find a Software | [alternativeto.net](https://alternativeto.net/) | Find a free software to get a job done more efficiently | N4 |
 
 > Notes:
+> 
 > N1 ► Makeitfrom has a peculiar search function - best way to search: visit google.com and enter [makeitfrom" mymaterial] with quotes around "makeitfrom" to let Google do the searching.
 > 
 > N2 ► Don't think of Mcmaster as a shopping store.  For many OTS parts, you can do your research at McMaster and do your shopping where it suits you best.  For example, I bought screws at Home Depot in a pinch, and since they don't come with specs like tensile strength, I found this data on Mcmaster for the same material.  Also go there to grab a CAD model of your fasteners and more.
