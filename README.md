@@ -240,7 +240,7 @@ Manufacturing methods from 2010+ era which may not appear your coursework.
 >
 > Status: No submissions & no winners (10/31) No questions have been asked.
 
-![tin hole image](https://i.imgur.com/uSZOhYg.jpeg ':class=image-25')
+![tin hole image](https://i.imgur.com/yWTZd1D.jpeg ':class=image-25')
 
 __Please see David for materials.  To win, collect the sample (lid from any tin can) from the professor and bring it to one of your technical lab coordinators.  The purpose of the challenge is to help students discover which professors are NPC on your engineering journey. Remember, Aggies do not lie, cheat, or steal ♥.__
 
