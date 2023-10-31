@@ -1,20 +1,21 @@
 ![banner image](img/banner.jpg ':class=banner-image')
 
-# MXET Resources
-Resources for Multidisciplinary Engineering Education.  #Mechatronics #Robotics #AppliedLearning #IoT #Fabrication
-
 ### | [Web Page](https://qr.page/g/4ZptmdWxn5y ':class=button') | [Github Repository](https://github.com/MXET/resources ':class=button') | [Change Log](https://github.com/MXET/resources/commits/main ':class=button') |
 
-# Introduction
+# MXET Resources
+Resources for Multidisciplinary Engineering Education.  
 
-What is this web page for?  How can we use it?
+**#Mechatronics #Robotics #AppliedLearning #IoT #Fabrication**
+
+## ♥ Introduction
+
+What is this web page for, and how can we use it?
 
 <details>
   <summary> Dear MXET & ESET students, </summary>
-If you are graduate before 2030, ZERO of your professors graduated from a multidisciplinary degree program. You're in new territory where at times, the professor who is an expert in one part of your field may be a novice in adjacent fields that you study.  Therefore, you are challenged to balance the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.*
+If you are graduate before 2030, ZERO of your professors graduated from a multidisciplinary degree program. You're in new territory where at times, the professor who is an expert in one part of your field may be a novice in adjacent fields that you study.  Therefore, you are challenged to balance the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.
   </details>
   
----------------------------------------
 
 <details>
   
@@ -32,9 +33,9 @@ If you are graduate before 2030, ZERO of your professors graduated from a multid
 
 # Power Electronics
 
-------------------
 
-## ► Your Curriculum
+
+## ♥ Your Curriculum
 
 Power calculation & design falls neatly between the curriculum of MXET courses.  Supplementary knowledge is added here to support your projects.
 
@@ -47,7 +48,7 @@ Power calculation & design falls neatly between the curriculum of MXET courses. 
 | Control Systems | How to control power to a motor    |
 | NOT COVERED     | How to evaluate a whole system?    |
 
-## ► Power Budget
+## ♥ Power Budget
 
 An introduction to creating a power budget.  This is oriented to systems that are battery operated, rather than plugged into a wall.
 
@@ -61,14 +62,12 @@ An introduction to creating a power budget.  This is oriented to systems that ar
 | ![pwr-budget](https://img.youtube.com/vi/s4Syzco1ziM/mqdefault.jpg) | ![pwr-testing](https://img.youtube.com/vi/DKPFsVOTJpw/mqdefault.jpg) |
 | [view on youtube](https://youtu.be/s4Syzco1ziM ':class=button')     | [view on youtube](https://youtu.be/DKPFsVOTJpw ':class=button')           |
 
-## ► Measure Power
-The **Power Bench** is a lab station for hands-on testing of powered electronics.
+## ♥ Power Measurement
+We built you a **Power Bench** station for hands-on testing of powered electronics. The Bench includes testers, adapters, power supplies in the power bench that come with their own instructions shared below.  The components are affordable off-the-shelf tech that you might also buy for your project.
 
 ![Power Bench image](https://i.imgur.com/y8rRf60.jpg ':class=image-25')
 
 ### Power Bench Design
-
-The Power Bench includes off-the-shelf testers, adapters, power supplies in the power bench that come with their own instructions.  You can find them here.
 
 <div class="accordion">
 
@@ -138,7 +137,7 @@ The most highly recommended tools for MXET projects, and also used to build the 
 * [Round Wire Stripper](https://qr.scuttlerobot.org/g/2AplH9VFcYL)
 * [Flush Cutters](https://qr.page/g/3ffmXrqe0EX)
 
-## Magic Schoolbox
+## ♥ Magic Schoolbox
 A smart toolbox: each tool with an instructional video.  A self-service policy: use it and respect it.  
 
 ![magic schoolbox drawer](https://i.imgur.com/zZKRNVE.jpg)
@@ -147,7 +146,7 @@ A smart toolbox: each tool with an instructional video.  A self-service policy: 
 
 ❗ WATCH THE VIDEO. ❗ When the videos were scripted, the audience is YOU. You will learn something new and valuable.
 
-## Feedback
+## ♥ Feedback
 
 Communication only works if the loop is closed.
 
@@ -165,7 +164,7 @@ Need a new tool we don't have? Need help getting a Job?  Have an issue with your
 
 Why use the form? Why use the github?  To help students, your lab coordinators use resources from TAMU.  TAMU has a LOT of resources.  But, we can only PULL resources if our requests are backed up directly by undergraduate students' needs, and we have clear documentation of those needs.  If we have clear docs, things happen rapidly and reliably.
 
-## E-tools
+## ♥ E-tools
 
 Handy sites for researching what you need:
 | What you need | Site | Best for | Tips | 
@@ -190,12 +189,12 @@ This section contains resources for students making their own documentation.
 * Researchers - documenting results
 * Faculty - documenting teaching material
 
-## The Hugeness
+## ♥ The Hugeness
 Don't underestimate your project. Consider how many paths your team ventured to produce a prototype.  Here is a sample of applications you may have used.  What is most critical for you to document?  Remember: the root of engineering is science and the root of science is repeatability of results.
 ![MXET design applications](img/img_mxet_applications.jpg ':class=image-25')
 
 
-## Docs Tips
+## ♥ Docs Tips
 
 | Tip                                                                                                                             | Details                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -206,7 +205,7 @@ Don't underestimate your project. Consider how many paths your team ventured to 
 | 6\. For the Love of God - version your docs                                                                    |   👉 Date all of your documents. <br>👉 'Final Draft' is never final.  Choose a convention; the 3rd version is v3.0.  The submitted version is v3.0-submitted, anything but final!                                                                                                                                                                  |
 | 7\. Discover ShareX                                                                                                             |   👉 capture on-screen GIF in seconds<br>  👉 take snippets & upload + shorten hyperlink in one click.<br>  👉 convert all of your images to lightweight PNG or JPG.<br>  👉 upload to the cloud without signing in 👉 soooo much more.  It's GOLD 🪙                                                             |
 
-## Diagrams
+## ♥ Diagrams
 Special section here to introduce [Draw.io](https://Draw.io) - What I love about this application is that it's portable, and not locked in.  Anything you build in draw.io can be copied neatly over to other applications such as powerpoint, visio, etc.  So, when you need it, it's there.  When you don't you export.
 
 They have an impressive amount of Integrations so it's a winner in my book
@@ -229,7 +228,7 @@ Manufacturing methods from 2010+ era which may not appear your coursework.
 
 ---
 
-## Hole Challenge 2023
+## ♥ Hole Challenge 2023
 
 >
 > Award: $50 cash for first winner.
@@ -246,7 +245,7 @@ __Please see David for materials.  To win, collect the sample (lid from any tin 
 
 
 
-## Design Knowledge
+## ♥ Design Knowledge
 This section focuses on Additive Manufacturing (AM) in the applied setting - geared towards MXET projects.
 
 ### Polymers
@@ -297,7 +296,7 @@ This topic deserves a whole page for itself, so here we go
 
 ---
 
-## Design Examples
+## ♥ Design Examples
 Each part has a special feature that make them examples to learn from.  But separately, you may find these parts useful in your project.
 
 > Polymers
@@ -322,19 +321,17 @@ Each part has a special feature that make them examples to learn from.  But sepa
 | ![img_apps](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2a1d641de848e142003c98dc891b00b1/large.jpg) ) | ![img_cad_snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/8edeff9a6f781896d264fe8bcba1580a/large.PNG) | ![img_printed_part](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/670c08c54616c7b7f6c1f7d5e8c66afa/large.jpg) |
 
 
-## Machines & Tools
+## ♥ Machines & Tools
 
 Product Innovation Cellar = PIC at Texas A&M. These machines are available in the Product Innovation Cellar (PIC) for students.  Access & safety is administered by Lab Coordinator [Doug Burnett](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html)
 
 **Location:** 009 Thompson Hall
 
-**Access Hours:** 8am-6:30pm by ID Card Swipe 📛, + all hours LC is present in lab.
-
-**Access Approval:** all enrolled in 419 and 420 (by default) + any student with LC accompanyment.
+**Hours:** 8am-6:30pm by ID Card Swipe, plus all hours LC is present in lab.
 
 ----------------
 
-### Details about Lab Access
+## ♥ Lab Access
 <details>
   <summary> Click to expand.</summary>
   
@@ -388,7 +385,7 @@ Globalmax 1508 | [🔗 User Manual 708115K](https://lobfile.com/file/2uGk.pdf)  
 --------------
 
 
-## Monthly Teardowns
+## ♥ Monthly Teardowns
 
 >
 > “When you want to know how things really work, study them when they are coming apart.” - William Gibson
@@ -426,17 +423,17 @@ Gasoline-powered pressure washer
 # Capstone
 Every capstone team submits their documentation before graduation but the new teams have varying access to examples.  This section uses an example capstone team called Flobotics with a product "Ventus," a robot designed to navigate through indoor greenhouses to collect sensor data.
 
-## Design Tips
+## ♥ Design Tips
 
 | Tip                              | Details                                                               |
 | -------------------------------- | --------------------------------------------------------------------- |
 | 1\. Bench before you Build            |   👉 Your design contains nothing new.  Your **integration** is new.  So, find a proven design containing the same elements. [OpenBuilds.com](https://openbuilds.com/)  |
 | 2\. Handle tight deadlines in reverse | 👉 24 hours before a deadline, stop what you're doing.  Pretend the deadline is now.  Run a trial of your presentation, notice the worst shortcomings, and reprioritize your tasking based on that. | 
 
-## Web Page
+## ♥ Web Page
 [Flobotics Web Page](https://peiyuzhe.wixsite.com/flobotics)
 
-## Design Concept
+## ♥ Design Concept
 This includes the Conceptual Block Diagram, Concept of Operation, Performance Specifications, and Functional Block Diagram
 
 ### Conceptual Block Diagram
@@ -447,7 +444,7 @@ This is a simple CBD, conceptual block diagram.  [CLICK HERE](https://github.com
 
 ... To be further populated ► heck back soon!
 
-## Sourcing
+## ♥ Sourcing
 
 #### What vendor should you shop?.
 
@@ -486,7 +483,7 @@ Best* Sources to begin:
 
 # Contact
 
-## Technical Staff
+## ♥ Technical Staff
 
 > We run your labs. If we don't know your needs, they won't be met.
 >
@@ -510,7 +507,7 @@ Best* Sources to begin:
 
 
 
-## More Tech by David:
+## ♥ More Tech by David:
 
 >
 > These resources are not part of the MXET program but may benefit your education.
@@ -526,7 +523,7 @@ Best* Sources to begin:
 | [Contact](https://engineering.tamu.edu/etid/profiles/malawey-david.html ':class=button') | public contact info |
 
 
-## Glossary
+## ♥ Glossary
 
 >
 > Acronyms & definitions for this page specifically:
