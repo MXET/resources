@@ -30,9 +30,26 @@ If you are graduate before 2030, ZERO of your professors graduated from a multid
   
   </details>
 
+## ♥ Feedback
+
+Communication only works if the loop is closed.
+
+**Novice students:**
+
+Please give feedback using this form.
+[Feedback Form](https://qr.page/g/2SgVRaiX04o) using google forms.
+
+**Experienced students:**
+Please post an issue on this github repository.
+[Jump to issues page](https://github.com/MXET/resources/issues)
+
+**Wise students**
+Need a new tool we don't have? Need help getting a Job?  Have an issue with your design team?  Your lab staff are the only human beings among 7 billion who are literally paid to help you directly, with your engineering career. We get satisfaction from helping young engineers. Reach out.
+
+Why use the form? Why use the github?  To help students, your lab coordinators use resources from TAMU.  TAMU has a LOT of resources.  But, we can only PULL resources if our requests are backed up directly by undergraduate students' needs, and we have clear documentation of those needs.  If we have clear docs, things happen rapidly and reliably.
+
 
 # Power Electronics
-
 
 
 ## ♥ Your Curriculum
@@ -144,25 +161,8 @@ A smart toolbox: each tool with an instructional video.  A self-service policy: 
 
 ![tools_svg](/img/handTools2.svg)
 
-❗ WATCH THE VIDEO. ❗ When the videos were scripted, the audience is YOU. You will learn something new and valuable.
+❗ WATCH THE VIDEOS. ❗ When the videos were scripted, the audience is YOU. You will learn something new and valuable.
 
-## ♥ Feedback
-
-Communication only works if the loop is closed.
-
-**Novice students:**
-
-Please give feedback using this form.
-[Feedback Form](https://qr.page/g/2SgVRaiX04o) using google forms.
-
-**Experienced students:**
-Please post an issue on this github repository.
-[Jump to issues page](https://github.com/MXET/resources/issues)
-
-**Wise students**
-Need a new tool we don't have? Need help getting a Job?  Have an issue with your design team?  Your lab staff are the only human beings among 7 billion who are literally paid to help you directly, with your engineering career. We get satisfaction from helping young engineers. Reach out.
-
-Why use the form? Why use the github?  To help students, your lab coordinators use resources from TAMU.  TAMU has a LOT of resources.  But, we can only PULL resources if our requests are backed up directly by undergraduate students' needs, and we have clear documentation of those needs.  If we have clear docs, things happen rapidly and reliably.
 
 ## ♥ E-tools
 
