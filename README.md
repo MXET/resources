@@ -468,13 +468,37 @@ Best* Sources to begin:
 > >
 
 
-# More Tech
+# Contact
+
+## Technical Staff
+
+> We run your labs. If we don't know your needs, they won't be met.
+>
+> 
+> **Doug Burnett**
+> 
+> * Email: gystg.burnett@tamu.edu
+> * Office: 979-458-6419
+> * On-site: Thompson 009A
+> * [Staff Web Page:](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html)
+> * Serving students: oversees PIC laboratory, supplies for students, electronics fabrication support. Safety & permissions for lab usage.
+> 
+> **David Malawey**
+> 
+> * Email: malawey@tamu.edu
+> * Office: no office line as of 2023
+> * On-site: Thompson 009BB
+> * [Staff Web Page](https://engineering.tamu.edu/etid/profiles/malawey-david.html)
+> * Serving students: this web page, mechatronics engineering support, PIC technology items, technical design questions. 3D printing & manufacturing methods.
+> 
 
 
 
-## More Tech by DM:
+## More Tech by David:
 
-These resources are not part of the MXET program but you may find them beneficial to your MXET learning journey.
+>
+> These resources are not part of the MXET program but may benefit your education.
+>
 
 | Link | short description |
 | ---- | ----------------- |
