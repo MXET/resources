@@ -1,11 +1,10 @@
+# MXET Resources
+
 ![banner image](img/banner.jpg ':class=banner-image')
 
 ### | [Web Page](https://qr.page/g/4ZptmdWxn5y ':class=button') | [Github Repository](https://github.com/MXET/resources ':class=button') | [Change Log](https://github.com/MXET/resources/commits/main ':class=button') |
 
-# MXET Resources
-Resources for Multidisciplinary Engineering Education.  
-
-**#Mechatronics #Robotics #AppliedLearning #IoT #Fabrication**
+Resources for Multidisciplinary Engineering Education, including #Mechatronics, #Robotics, #AppliedLearning, #IoT, #Fabrication
 
 ## ♥ Introduction
 
