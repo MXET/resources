@@ -306,6 +306,8 @@ Each part has a special feature that make them examples to learn from.  But sepa
 > What does your drawing need? This can be confusing even to engineers with experience. They are audience-dependent.  That's right, there is no catch-all example of a 2D drawing because drawings are _communication_.  Asking for an example drawing is like asking for an example email.  We can show you formats, and elements you may need to include but we cannot answer the question: what does my 2D drawing need to include?
 >
 > Please review the examples and understand these drawings communicate to the audience: the customer, in this case.  If the customer uses this drawing to shop for parts and build an assembly, and the customer will use the parts to perform engineering, then the designer aims to include enough information for that audience to perform their task.  For a screw, they need to know how long it is but they do not need to know the dimensions of the philips head shape.  If the drawing is for a manufacturer to produce the part by hand-cutting, they need each dimension to cut.  If the drawing is for a manufacturer using CNC machining, they may only need the tolerances, not the location of each cut.  With a CNC machine, the machine will interpret a hole locations using the digital information within the file.  The manufacturer simply must know the tolerances so he can select the tooling, feeds, and speeds to achieve the requirement.
+>
+> In conclusion, the drafter needs to know how the drawing will be used in order to know what to include in the drawing.  And, drawings are ultimately just like any other communication.
 > 
 
 ### Example Drawings:
