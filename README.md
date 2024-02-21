@@ -212,13 +212,13 @@ They have an impressive amount of Integrations so it's a winner in my book
 ![drawio integrations](https://www.drawio.com/assets/img/blog/integrations.png)
 _Figure: drawio integrations_
 
-Useful Draw.io steps:
+Get Started in Draw.io:
 
-* See the [Quick Start Video](https://youtu.be/Z0D96ZikMkc)
-* Import custom libraries [instructions](https://drawio-app.com/blog/import-and-export-vsdx-files/) to get lots of free icons
-* Import visio diagrams [instruction](https://drawio-app.com/blog/import-and-export-vsdx-files)
-* Get icons curated specially for MXET [HERE](https://qr.page/g/4l8Rh9LDBRP)
-* Perform realtime [collaboration](https://youtu.be/4ejY7MmMUSg)
+1) See the [Quick Start Video](https://youtu.be/Z0D96ZikMkc)
+2) Import custom libraries [instructions](https://drawio-app.com/blog/import-and-export-vsdx-files/) to get lots of free icons
+3) Import visio diagrams [instruction](https://drawio-app.com/blog/import-and-export-vsdx-files)
+4) Get icons curated specially for MXET [HERE](https://qr.page/g/4l8Rh9LDBRP)
+5) Perform realtime [collaboration](https://youtu.be/4ejY7MmMUSg)
 
 
 
@@ -227,23 +227,6 @@ Useful Draw.io steps:
 Manufacturing methods from 2010+ era which may not appear your coursework.
 
 ---
-
-## ♥ Hole Challenge 2023
-
->
-> Award: $50 cash for first winner.
-> 
-> * Challenge: Find a professor who can drill a hole.
-> * Terms: Professor must make the hole without any assistance.  The hole must be round without burr, with a diameter 12mm +/- 0.25mm. 
-> * Timeline: Challenge begins November 1 2023.  On January 1st, 2024, the award will increase if we have not found a winner.  Only MXET students can participate.
->
-> Status: No submissions & no winners (10/31) No questions have been asked.
-
-![tin hole image](https://i.imgur.com/cH7GT8o.png ':class=image-25')
-
-__Please see David for materials.  To win, collect the sample (lid from any tin can) from the professor and bring it to one of your technical lab coordinators.  The purpose of the challenge is to help students discover which professors are NPC on your engineering journey. Remember, Aggies do not lie, cheat, or steal ♥.__
-
-
 
 ## ♥ Design Knowledge
 This section focuses on Additive Manufacturing (AM) in the applied setting - geared towards MXET projects.
