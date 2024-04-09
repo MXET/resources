@@ -442,7 +442,7 @@ This includes the Conceptual Block Diagram, Concept of Operation, Performance Sp
 
 This is a simple CBD, conceptual block diagram.  [CLICK HERE](https://github.com/dmalawey/mxet/blob/main/flobotic_cbd.drawio) to grab the source file in draw.io format.
 
-... To be further populated ► heck back soon!
+... To be further populated ► check back soon!
 
 ## ♥ Sourcing
 
