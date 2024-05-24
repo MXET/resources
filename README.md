@@ -35,8 +35,7 @@ Communication only works if the loop is closed.
 
 **Novice students:**
 
-Please give feedback using this form.
-[Feedback Form](https://qr.page/g/2SgVRaiX04o) using google forms.
+Please email malawey@tamu.edu with questions or comments.
 
 **Experienced students:**
 Please post an issue on this github repository.
@@ -55,18 +54,17 @@ Why use the form? Why use the github?  To help students, your lab coordinators u
 
 Power calculation & design falls neatly between the curriculum of MXET courses.  Supplementary knowledge is added here to support your projects.
 
-| Course          | Covers                             |
-| --------------- | ---------------------------------- |
-| Circuits        | How is energy calculated?          |
-| Thermodynamics  | Where does energy go?              |
-| Mechatronics    | How to select an actuator?         |
-| Instrumentation | How to measure one element?        |
-| Control Systems | How to control power to a motor    |
-| NOT COVERED     | How to evaluate a whole system?    |
+| Course          | Covers                             | Not covered |
+| --------------- | ---------------------------------- | ----------- |
+| Circuits        | How is energy calculated?          | how to power my project? |
+| Thermodynamics  | Where does energy go?              | what is my circuit efficiency? |
+| Mechatronics    | How to select an actuator?         | how to measure actuator power? |
+| Instrumentation | How to measure one element?        | how to measure power of a system? |
+| Control Systems | How to control power to a motor    | how to control power digitally? |
 
 ## ♥ Power Budget
 
-An introduction to creating a power budget.  This is oriented to systems that are battery operated, rather than plugged into a wall.
+An introduction to creating a power budget. This is oriented to systems that are battery operated, rather than plugged into a wall.  That is, DC systems rather than AC, and using usual electronics voltages such as 5v (USB), 12v (car battery), and 3.3v (digital signal levels)
 
 * PDF Template for MXET [Power budget](https://qr.page/g/3fLXXbQFdPo)
 * Excel Template for MXET [Power budget](https://lobfile.com/file/M2Qt.xlsx)
@@ -76,7 +74,7 @@ An introduction to creating a power budget.  This is oriented to systems that ar
 | Test Power | Make a Power Budget |
 | ---------- | ------------------- | 
 | ![pwr-budget](https://img.youtube.com/vi/s4Syzco1ziM/mqdefault.jpg) | ![pwr-testing](https://img.youtube.com/vi/DKPFsVOTJpw/mqdefault.jpg) |
-| [view on youtube](https://youtu.be/s4Syzco1ziM ':class=button')     | [view on youtube](https://youtu.be/DKPFsVOTJpw ':class=button')           |
+| [view on youtube](https://youtu.be/s4Syzco1ziM ':class=button')     | [view on youtube](https://youtu.be/DKPFsVOTJpw ':class=button')      |
 
 ## ♥ Power Measurement
 We built you a **Power Bench** station for hands-on testing of powered electronics. The Bench includes testers, adapters, power supplies in the power bench that come with their own instructions shared below.  The components are affordable off-the-shelf tech that you might also buy for your project.
