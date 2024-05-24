@@ -33,18 +33,15 @@ If you are graduate before 2030, ZERO of your professors graduated from a multid
 
 Communication only works if the loop is closed.
 
-**Novice students:**
+* **Novice students:**
+  * Please email malawey@tamu.edu with questions or comments.
+* **Experienced students:**
+  * Please post an issue on this github repository.
+  * [Jump to issues page](https://github.com/MXET/resources/issues)
+* **Wise students**
+  * Need a new tool we don't have? Need help getting a Job?  Have an issue with your design team?  Your lab staff are the only human beings among 7 billion who are literally paid to help you directly, with your engineering career. We get satisfaction from helping young engineers. Reach out.
 
-Please email malawey@tamu.edu with questions or comments.
-
-**Experienced students:**
-Please post an issue on this github repository.
-[Jump to issues page](https://github.com/MXET/resources/issues)
-
-**Wise students**
-Need a new tool we don't have? Need help getting a Job?  Have an issue with your design team?  Your lab staff are the only human beings among 7 billion who are literally paid to help you directly, with your engineering career. We get satisfaction from helping young engineers. Reach out.
-
-Why use the form? Why use the github?  To help students, your lab coordinators use resources from TAMU.  TAMU has a LOT of resources.  But, we can only PULL resources if our requests are backed up directly by undergraduate students' needs, and we have clear documentation of those needs.  If we have clear docs, things happen rapidly and reliably.
+Why use the github?  To help students, your lab coordinators use resources from TAMU.  TAMU has a LOT of resources.  But, we can only PULL resources if our requests are backed up directly by undergraduate students' needs, and we have clear documentation of those needs.  If we have clear docs, things happen rapidly and reliably.
 
 
 # Power Electronics
