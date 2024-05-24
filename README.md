@@ -220,7 +220,9 @@ Get Started in Draw.io:
 4) Get icons curated specially for MXET [HERE](https://qr.page/g/4l8Rh9LDBRP)
 5) Perform realtime [collaboration](https://youtu.be/4ejY7MmMUSg)
 
+### Making Diagrams
 
+<iframe width="720" height="576" src="https://www.youtube.com/embed/drq9eDgVSfo" title="How to Make Nice Graphics in Draw.io for diagrams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Modern Manufacturing
 
