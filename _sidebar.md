@@ -1,2 +1,3 @@
-- [Home](/README)
+- [Home](home)
 - [Power](power)
+- [downloads](downloads)
