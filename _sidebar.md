@@ -1,2 +1,2 @@
 - [Home](/README)
-- [Power)](/md/power)
+- [Power](/md/power)
