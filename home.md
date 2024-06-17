@@ -534,3 +534,5 @@ Best* Sources to begin:
 * AM | additive manufacturing (for this department, it's 3D printing & adjacent tech)
 * Metal AM | metal additive manufacturing
 * YT | youtube
+
+[![Repo Updated Badge](https://badges.strrl.dev/updated/MXET/resources)](https://badges.strrl.dev)
