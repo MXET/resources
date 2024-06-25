@@ -18,3 +18,4 @@
  - [Cable Design Guide - amphenol](https://www.peigenesis.com/images/content/solutionguides/cookbook.pdf)
  - [Terminal Blocks Guide - automationdirect](https://lobfile.com/file/sPZ3H9zN.pdf)
  - [Timing Belt Design Guide](https://lobfile.com/file/UXbudfRZ.pdf)
+- [Tap Drill Size Chart](https://lobfile.com/file/RkPc2yPc.pdf)
