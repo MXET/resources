@@ -1,4 +1,4 @@
-## ♥ Power Measurement
+## Power Measurement
 We built you a **Power Bench** station for hands-on testing of powered electronics. The Bench includes testers, adapters, power supplies in the power bench that come with their own instructions shared below.  The components are affordable off-the-shelf tech that you might also buy for your project.
 
 ![Power Bench image](https://i.imgur.com/y8rRf60.jpg ':class=image-25')
@@ -60,4 +60,42 @@ Problems that were solved using the bench (examples):
 * [PDF queries](https://qr.page/g/1FG90ytGtOp) shows what you can test
 * [PDF Example Results](https://qr.page/g/LcfYDDoNz6) shows example results
 * [Video - Power Budgeting](https://qr.scuttlerobot.org/g/RkNMzfI67w) an introduction to creating a power budget (advanced).
+
+
+## Battery Handling
+
+This section is for proper handling of li-ion cells in the [SCUTTLE Robot battery pack](https://grabcad.com/library/batterypackv3-1) used in MXET300.  The notes also serve for general use of li-ion batteries and charging.
+
+### Terminology:
+SOC = state of charge
+BMS = battery management system
+
+### Cautions
+The batteries are the part of the robot with the most frequent failures due to mistreatment.
+
+The battery may be charged with any 12v power supply as the BMS will prevent excessive current.  Or, cells can be removed and charged in an off-the-shelf 18650 battery charger, for Lithium Ion Cells.
+
+If you need to remove cells, remove them carefully and evenly so the cosmetic wrap does not tear!
+
+When charging, the onboard battery management system (BMS) protects the cells from overcurrent. However, if the input current exceeds around 10A momentarily, the BMS will disconnect current and needs disconnection of charger to reset.  
+
+### Charging from low SoC:
+
+If you allow cells to drop down to low voltage (around 9.0v total) then the initial charging current may be high, and trip the BMS safety.  At low voltages, start your charging with a power supply that limits voltage (ie 10v) or limits current (ie 6A).
+
+These cells are rated TRULY, over 3000 mAh from Panasonic - they are a leading model number in the market and not easy to order small quantities, so take care of cells at all times!
+
+### Helpful features: 
+You can charge this battery and operate your robot at the same time!  Connect your power supply to one terminal pair while running your CPU from the other terminal pair, for use cases like testing software and reading sensors, and operating the Pi for long periods.
+
+You may check the cells by multimeter at any time (probe + and - of one cell's terminals) to verify the voltage.  There is no need to remove the cells for measurement. Cells should be balanced within 0.2 volts across the 3 cells.
+
+You can safely charge the batteries with various reasonable sources such as 12v solar panel or a larger battery, provided the current does not exceed shutoff-threshold.  BMS shutoff does not cause damage – test your setup with good engineering planning.
+
+The BMS offers max-voltage shutoff as well, around 14v.  If the input voltage is too high (such as fluctuating solar panel) then the BMS will shut off regardless of current.
+
+### Damaged Cells:
+
+If a cell has a low voltage, it is irreparably damaged.  They may survive as low as 2.8 volts momentarily but if stored below 2.8 volts you can trust the cell is ready for the recycle bin.
+
 
