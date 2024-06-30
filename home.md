@@ -2,8 +2,6 @@
 
 ![banner image](img/banner.jpg ':class=banner-image')
 
-### | [Web Page](https://qr.page/g/4ZptmdWxn5y ':class=button') | [Github Repository](https://github.com/MXET/resources ':class=button') | [Change Log](https://github.com/MXET/resources/commits/main ':class=button') |
-
 Resources for Multidisciplinary Engineering Education, including #Mechatronics, #Robotics, #AppliedLearning, #IoT, #Fabrication
 
 ## ♥ Introduction
@@ -266,9 +264,9 @@ Additive manufacturing with metals is most commonly performed with a powdered me
 * [Metal AM Labs at TAMU](https://lobfile.com/file/9d9r.xlsx) for collaboration.
 * [Build Plate Geometry](https://grabcad.com/library/build-plate-am400-1) CAD model for the Renishaw AM400
 
-### Bonding
+### Methods
 
-Mechatroncis projects don't discriminate by materials!  By understanding materials, you'll find value in much more than 3D Printing plastic and Metal, and the next step is to discover how to bond these various materials to each other.
+This section covers technical methods for producing prototypes, starting with Bonding. Mechatroncis projects don't discriminate by materials!  By understanding materials, you'll find value in much more than 3D Printing plastic and Metal, and the next step is to discover how to bond these various materials to each other.
 
 This topic deserves a whole page for itself, so here we go
 
