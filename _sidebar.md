@@ -1,3 +1,4 @@
 - [Home](home)
+- [Methods](methods)
 - [Power](power)
 - [downloads](downloads)
