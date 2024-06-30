@@ -268,9 +268,9 @@ Additive manufacturing with metals is most commonly performed with a powdered me
 
 This section covers technical methods for producing prototypes, starting with Bonding. Mechatroncis projects don't discriminate by materials!  By understanding materials, you'll find value in much more than 3D Printing plastic and Metal, and the next step is to discover how to bond these various materials to each other.
 
-This topic deserves a whole page for itself, so here we go
+This topic deserves a whole page for itself, so here we go:
 
-[Visit the Bonding Guide](https://qr.page/g/3VElbJNvt6w ':class=button')  
+[Details on Methods](methods.md) 
 
 ---
 
