@@ -46,3 +46,10 @@ This topic is nearly as important as bonding.  If you can discover a trio where 
 
 ### Undoing your Bond:
 Wouldn't it be nice if bonds worked like a lock and key?  And each glue had a process to remove it easily?  You came to the right page.
+
+# Videos
+Tutorials by video to complement your educatinal materials.
+
+### Thread Tapping
+Tap threads in aluminum materials such as aluminum extrusions.  Proper fastener sizes to match 2020, 3030, aluminum rail, for selecting your screws.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyiSZ53XoCU?si=PQr8zx2o3mjStuCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
