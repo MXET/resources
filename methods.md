@@ -53,3 +53,7 @@ Tutorials by video to complement your educatinal materials.
 ### Thread Tapping
 Tap threads in aluminum materials such as aluminum extrusions.  Proper fastener sizes to match 2020, 3030, aluminum rail, for selecting your screws.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wyiSZ53XoCU?si=PQr8zx2o3mjStuCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Proper Screwdriver for Electronics
+Philips screwdrivers have sizes and they are important! Many devices have screw terminals that are easily stripped.  Please equip yourself with a properly matched driver - here is how to tell!  
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/Tv_4055fiXU" title="modify a screwdriver for electronics, mechatronics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
