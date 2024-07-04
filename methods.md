@@ -73,3 +73,11 @@ Easily and cheaply add pneumatics to your design with this example.  Convert a f
 ### Build Spade Terminals
 Quick-disconnect terminals or Spade terminals are extremely common.  When to use them, and how to crimp them reliably, and how to select terminals.
 <iframe width="1250" height="703" src="https://www.youtube.com/embed/Ed4rbTW7LTw" title="How to Crimp Quick Disconnects (spade terminals)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Ferrules
+Avoid failure in fitment. Precise instructions for ferrule crimping.  Use ferrules for current-carrying connections.
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/LtvPOjP6O40" title="How to Crimp Ferrules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Strip Round Cables
+This lesser-known tool avoids damaging the internal wires for a jacketed, round cable.
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/9GT5Vm_QWao" title="Strip round cables without damaging insulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
