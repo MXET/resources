@@ -44,15 +44,20 @@ This topic is nearly as important as bonding.  If you can discover a trio where 
 
 **Not testing** What if you could know a bond performance before you deposited any glues on your nice prototype?  Welcome to testing.  Grab a scrap of your material and try it out with the 
 
-### Undoing your Bond:
-Wouldn't it be nice if bonds worked like a lock and key?  And each glue had a process to remove it easily?  You came to the right page.
-
 # Videos
 Tutorials by video to complement your educatinal materials.
 
+### USB (60 minutes)
+USB cables, power, 5v regulators, communication bus, measuring quality, and failure modes.
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/9c9-YUSbgYs" title="More about USB than you ever wanted to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Tape (70 minutes)
+Exacting details about tape materials & where to apply them as engineering materials.
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/W0sAR_jI4b8" title="More than you ever wanted to know about tape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Thread Tapping
 Tap threads in aluminum materials such as aluminum extrusions.  Proper fastener sizes to match 2020, 3030, aluminum rail, for selecting your screws.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wyiSZ53XoCU?si=PQr8zx2o3mjStuCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/wyiSZ53XoCU?si=PQr8zx2o3mjStuCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Proper Screwdriver for Electronics
 Philips screwdrivers have sizes and they are important! Many devices have screw terminals that are easily stripped.  Please equip yourself with a properly matched driver - here is how to tell!  
