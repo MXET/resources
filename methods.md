@@ -53,6 +53,13 @@ USB cables, power, 5v regulators, communication bus, measuring quality, and fail
 
 ### Tape (70 minutes)
 Exacting details about tape materials & where to apply them as engineering materials.
+<details>
+  <summary>Products in this video:</summary>
+  Gaffers Tape [EdenProducts on amazon](https://amzn.to/3MlpHsj)
+  Wire Harness Tape [xfasten on amazon](https://amzn.to/4fUBmMB)
+  ... list to be continued soon!
+</details>
+
 <iframe width="1250" height="703" src="https://www.youtube.com/embed/W0sAR_jI4b8" title="More than you ever wanted to know about tape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Thread Tapping
