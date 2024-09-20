@@ -42,7 +42,8 @@ The test geometry should not be considered fixed.  With digital control of the g
 
 Figure 1: Test Aparatus
 <details>
-  Figure 1 The basic test assembly is simple and easy to adapt.   A 3D printed fixture can be mounted in an ordinary vise & torque is measured with a beam-style torque wrench.  Finer instruments can be used if needed. <br />
+  Figure 1 The basic test assembly is simple and easy to adapt.   A 3D printed fixture can be mounted in an ordinary vise & torque is measured with a beam-style torque wrench.  Finer instruments can be used if needed. 
+  <br />
   <summary> Exapand to view ► </summary>
   <img src="https://i.imgur.com/6gJ2nkE.jpeg" width="400" />
   </details>
@@ -50,28 +51,32 @@ Figure 1: Test Aparatus
 Figure 2: Bonded Parts
 <details>
   Initial trials involve two parts and a bonded zone for evaluation of a joint.  The primary goal is to discover if the bond has equal strength to the parts, to be found in the failure location.  
+  <br />
   <summary> Expand to view ► </summary>
   <img src="https://i.imgur.com/7N04RQV.jpeg" width="400" />
   </details>
 
 
-Figure 3:
+Figure 3: Fixture & sample
 <details>
-  Text here for verifying the formatting in markdown & html.
+  The fixture (blue component) is mounted in the fixture before testing.  Easily mate the components without tools.  Steel balls interlock the parts to prevent rotation of the fixed sample.  The balls are one way to offer inexpensive tool-free interlocking and many alternatives are possible.  The black fixture can be bolted to any steady surface, clamped in a vise, or adjusted to suit a professional tensile test aparatus.
+  <br />
   <summary> Expand to view ► </summary>
   <img src="https://i.imgur.com/m5M9Hzs.jpeg" width="400" />
   </details>
 
-Figure 4:
+Figure 4: Torque measuring instrument
 <details>
-  Text here for verifying the formatting in markdown & html.
+  The most economical option for collecting test data.  Simple beam-style torque wrench with analog readout.  These beam-style torque wrenches are available for auto mechanics at low cost and typically mate with 1/2in or 3/8in square socket (female).  This photo includes a low-cost wrench desigend for oil filters or "oil filter wrench" which can be used to grip circular or polygon profiles.
+  <br />
   <summary> Expand to view ► </summary>
-  <img src="https://i.imgur.com/e5R1IQd.jpeg" width="400" />
+  <img src="https://i.imgur.com/cynPAI1.jpeg" width="400" />
   </details>
 
 Figure 5:
 <details>
   Text here for verifying the formatting in markdown & html.
+  <br />
   <summary> Expand to view ► </summary>
   <img src="https://i.imgur.com/e5R1IQd.jpeg" width="400" />
   </details>
