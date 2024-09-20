@@ -26,7 +26,7 @@ The project purpose is for solving new problems (fixed criteria) and exploration
 
 Figure 1:
 
-![test assembly](https://i.imgur.com/6gJ2nkE.jpeg ':class=image-25')
+![test assembly](https://i.imgur.com/6gJ2nkE.jpeg 'width="200"')
 
 Figure 2:
 
