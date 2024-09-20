@@ -21,3 +21,17 @@ The project purpose is for solving new problems (fixed criteria) and exploration
 
 *To support exploration of the following*
 1) 
+
+## Images
+
+Figure 1:
+
+![test assembly](https://i.imgur.com/6gJ2nkE.jpeg)
+
+Figure 2:
+
+![fixture and insert](https://i.imgur.com/m5M9Hzs.jpeg)
+
+
+
+Figure 3: 
