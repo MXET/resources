@@ -26,11 +26,11 @@ The project purpose is for solving new problems (fixed criteria) and exploration
 
 Figure 1:
 
-![test assembly](https://i.imgur.com/6gJ2nkE.jpeg)
+![test assembly](https://i.imgur.com/6gJ2nkE.jpeg ':class=image-25')
 
 Figure 2:
 
-![fixture and insert](https://i.imgur.com/m5M9Hzs.jpeg)
+![fixture and insert](https://i.imgur.com/m5M9Hzs.jpeg ':class=image-25')
 
 
 
