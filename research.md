@@ -25,13 +25,19 @@ The project purpose is for solving new problems (fixed criteria) and exploration
 ## Images
 
 Figure 1:
+<details>
+  <summary> Figure 1 The basic test assembly is simple and easy to adapt.   A 3D printed fixture can be mounted in an ordinary vise & torque is measured with a beam-style torque wrench.  Finer instruments can be used if needed. </summary>
+  ![test assembly](https://i.imgur.com/6gJ2nkE.jpeg)
+</details>
 
-![test assembly](https://i.imgur.com/6gJ2nkE.jpeg 'width="200"')
+
 
 Figure 2:
 
-![fixture and insert](https://i.imgur.com/m5M9Hzs.jpeg ':class=image-25')
+![fixture and insert](https://i.imgur.com/m5M9Hzs.jpeg)
 
 
 
 Figure 3: 
+This is an example test case:  two parts bonded with adhesive.  The test can evaluate the strength of the bond.  With zero instrumentation, we can evaluate if the bond is greater than or less than the strength of the materials.  With instrumentation, we can evaluate the failure torque.  With analysis, we can evaluate the shear loads for failure.
+![example test parts](https://i.imgur.com/e5R1IQd.jpeg)
