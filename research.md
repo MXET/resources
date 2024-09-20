@@ -27,9 +27,10 @@ The project purpose is for solving new problems (fixed criteria) and exploration
 Figure 1:
 <details>
   <summary> Figure 1 The basic test assembly is simple and easy to adapt.   A 3D printed fixture can be mounted in an ordinary vise & torque is measured with a beam-style torque wrench.  Finer instruments can be used if needed. </summary>
-  ![test assembly](https://i.imgur.com/6gJ2nkE.jpeg)
-</details>
+  <img src="https://i.imgur.com/6gJ2nkE.jpeg" width="200" />
+  </details>
 
+  ![test assembly](https://i.imgur.com/6gJ2nkE.jpeg)
 
 
 Figure 2:
