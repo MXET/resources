@@ -1,6 +1,9 @@
 # Open Research Collab
 
-Authored by David Malawey for posting projects for collaboration & sharing ideas.
+Authored by David Malawey for posting projects for collaboration & sharing ideas.  
+
+## Collaboration intention
+Instead of generating one result at a time, and publishing one academic article, open and incremental publication allows for real-time peer review & unlimited perturbations & results.  The research topics posted here are intrinsically suited to worldwide collaboration because the resources required to execute the research are fully within the digital space.  Ie, research of a rocket engine requires engineers to have a copy of the rocket engine, but the torque-testing research project will require only common materials, common design softwares, and shared documents consisting of 3D models, online data, common engineering standards, & digitally described methods.
 
 ## Torque testing project
 
