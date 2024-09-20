@@ -2,3 +2,4 @@
 - [Methods](methods)
 - [Power](power)
 - [Downloads](downloads)
+- [Research](research)
