@@ -73,10 +73,10 @@ Figure 4: Torque measuring instrument
   <img src="https://i.imgur.com/cynPAI1.jpeg" width="400" />
   </details>
 
-Figure 5:
+Figure 5: Fixture Pin
 <details>
-  Text here for verifying the formatting in markdown & html.
+  The image shows a high-strength bolt acting as a pin, with M8 thread size and smooth shoulder.   The pin can be included for maintaining alignment of the test components or omitted to offer freedom of motion.  The pin can lightly clamp the samples to isolate force in the torque z-direction.  Alternatively, the pin can clamp with a prescribed clamping force to test results on friction or interlocking geometries.
   <br />
   <summary> Expand to view ► </summary>
-  <img src="https://i.imgur.com/e5R1IQd.jpeg" width="400" />
+  <img src="https://i.imgur.com/yAnao1i.jpeg" width="400" />
   </details>
