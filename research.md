@@ -83,3 +83,11 @@ Figure 5: Fixture Pin
   <summary> Expand to view ► </summary>
   <img src="https://i.imgur.com/yAnao1i.jpeg" width="400" />
   </details>
+
+Figure 5: Failure Zone
+<details>
+  The image shows the shear zone where failure is expected for a bonded pair of samples.  The geometry herein can be loosely assumed to be a thin tube for shear calculations or it can be adjusted to a custom shape, to more closely match analytical solutions.
+  <br />
+  <summary> Expand to view ► </summary>
+  <img src="https://i.imgur.com/zCy4Pzv.jpeg" width="400" />
+  </details>
