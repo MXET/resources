@@ -43,11 +43,6 @@ Philips screwdrivers have sizes and they are important! Many devices have screw 
 
 <iframe width="1250" height="703" src="https://www.youtube.com/embed/Tv_4055fiXU" title="modify a screwdriver for electronics, mechatronics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Parametric Design: Why?
-Parametric example with an multimeter bracket that has configurations in solidworks.  We use variables instead of constants, and the software rebuilds the model instantly!  Then the final designs are unlimited.
-
-<iframe width="1250" height="703" src="https://www.youtube.com/embed/OkRfWXU7b-k" title="Tutorial: modeling and mindset for a parametric bracket (SOLIDWORKS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Shortcuts on Crimping for Sensors
 Everyone uses dupont connectors for arduino, etc.  How to crimp the connectors, verify them, and better ways to build terminals for reliability.  
 
