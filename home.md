@@ -422,8 +422,10 @@ Every capstone team submits their documentation before graduation but the new te
 
 | Tip                              | Details                                                               |
 | -------------------------------- | --------------------------------------------------------------------- |
-| 1\. Bench before you Build            |   👉 Your design contains nothing new.  Your **integration** is new.  So, find a proven design containing the same elements. [OpenBuilds.com](https://openbuilds.com/)  |
+| 1\. Bench before you Build            |   👉 Your design contains nothing new.  Your **integration** is new.  So, find a proven design containing the same elements. For example, [OpenBuilds.com](https://openbuilds.com/), [Hackster.io](https://hackster.io), and [Printables](https://printables.com) have lots of options to explore.  |
 | 2\. Handle tight deadlines in reverse | 👉 24 hours before a deadline, stop what you're doing.  Pretend the deadline is now.  Run a trial of your presentation, notice the worst shortcomings, and reprioritize your tasking based on that. | 
+| 3\. Learn Assemblies in CAD | 👉 You rarely need to model parts nowadays.  Instead, spend extra time learning how to mate and constrain assemblies in your cad software, then grab 3D parts online and put your effort into the _system design_ |
+
 
 ## ♥ Web Page
 [Flobotics Web Page](https://peiyuzhe.wixsite.com/flobotics)
