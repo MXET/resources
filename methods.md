@@ -1,6 +1,6 @@
 # Methods
 
-Methods for engineering applications: successful combination of parts.  (I'm aiming to improve the organization of this page; consider this a draft).
+This is a page to educate students on methods for prototyping in multidisciplinary design projects.  Hope you benefit from these lessons taken from my experience + 1 decade of observing senior design projects, and graduate research projects.
 
 # Videos
 Tutorials by video to complement your educatinal materials.
