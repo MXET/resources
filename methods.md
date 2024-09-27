@@ -5,6 +5,11 @@ This is a page to educate students on methods for prototyping in multidisciplina
 # Videos
 Tutorials by video to complement your educatinal materials.
 
+## Clean up your Wires
+Components, methods, and considerations for organizing wires in projects.  It's best to watch this before you design, so you can discover parts to integrate in your project plans.
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/31hwwpmNlCo" title="More about USB than you ever wanted to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Design an Enclosure
 How to plan an enclosure, select components, and make a successful prototype.
 
