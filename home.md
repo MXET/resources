@@ -103,12 +103,12 @@ This section contains resources for students making their own documentation.
 * Researchers - documenting results
 * Faculty - documenting teaching material
 
-## ♥ The Hugeness
+## The Hugeness
 Don't underestimate your project. Consider how many paths your team ventured to produce a prototype.  Here is a sample of applications you may have used.  What is most critical for you to document?  Remember: the root of engineering is science and the root of science is repeatability of results.
 ![MXET design applications](img/img_mxet_applications.jpg ':class=image-25')
 
 
-## ♥ Docs Tips
+## Docs Tips
 
 | Tip                                                                                                                             | Details                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -119,7 +119,7 @@ Don't underestimate your project. Consider how many paths your team ventured to 
 | 6\. For the Love of God - version your docs                                                                    |   👉 Date all of your documents. <br>👉 'Final Draft' is never final.  Choose a convention; the 3rd version is v3.0.  The submitted version is v3.0-submitted, anything but final!                                                                                                                                                                  |
 | 7\. Discover ShareX                                                                                                             |   👉 capture on-screen GIF in seconds<br>  👉 take snippets & upload + shorten hyperlink in one click.<br>  👉 convert all of your images to lightweight PNG or JPG.<br>  👉 upload to the cloud without signing in 👉 soooo much more.  It's GOLD 🪙                                                             |
 
-## ♥ Diagrams
+## Diagrams
 Special section here to introduce [Draw.io](https://Draw.io) - What I love about this application is that it's portable, and not locked in.  Anything you build in draw.io can be copied neatly over to other applications such as powerpoint, visio, etc.  So, when you need it, it's there.  When you don't you export.
 
 They have an impressive amount of Integrations so it's a winner in my book
@@ -144,7 +144,7 @@ Manufacturing methods from 2010+ era which may not appear your coursework.
 
 ---
 
-## ♥ Design Knowledge
+## Design Knowledge
 This section focuses on Additive Manufacturing (AM) in the applied setting - geared towards MXET projects.
 
 ### Polymers
@@ -237,7 +237,7 @@ Each part has a special feature that make them examples to learn from.  But sepa
 | ![img_apps](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2a1d641de848e142003c98dc891b00b1/large.jpg) ) | ![img_cad_snapshot](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/8edeff9a6f781896d264fe8bcba1580a/large.PNG) | ![img_printed_part](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/670c08c54616c7b7f6c1f7d5e8c66afa/large.jpg) |
 
 
-## ♥ Machines & Tools
+## Machines & Tools
 
 Product Innovation Cellar = PIC at Texas A&M. These machines are available in the Product Innovation Cellar (PIC) for students.  Access & safety is administered by Lab Coordinator [Doug Burnett](https://engineering.tamu.edu/etid/profiles/burnett-douglas.html)
 
@@ -247,7 +247,7 @@ Product Innovation Cellar = PIC at Texas A&M. These machines are available in th
 
 ----------------
 
-## ♥ Lab Access
+## Lab Access
 <details>
   <summary> Click to expand.</summary>
   
@@ -301,45 +301,10 @@ Globalmax 1508 | [🔗 User Manual 708115K](https://lobfile.com/file/2uGk.pdf)  
 --------------
 
 
-## ♥ Monthly Teardowns
-
->
-> “When you want to know how things really work, study them when they are coming apart.” - William Gibson
->
-
-_Starting September 1st I will lead monthly teardowns in the PIC on Fridays at 12pm noon.  Participants who join will have a chance to disassemble a mechatronics machine and learn what is inside, and how it was made.  This is open to any ETID student who wishes to join._
-
-After we see how the first teardown goes, I'll consider the following:
-* Photo albums for each teardown
-* Video explanations of what we find
-* How to choose the next machine for teardown.
-* documenting tools used for disassembly and how to use them
-* crowd-voting on the next teardown
-
-#### Teardowns by Month
-
-<details><summary> Expand for Plans & Logs </summary>
-**September Teardown:**
-  **Location** this one will take place off-campus (space is not yet ready in Thompson Hall).  The distance is 3.4 miles to the SCUTTLE Lab. Please email dmalawey@tamu.edu if you would like to attend.  
-
-  **Livestream** video on [youtube here](https://youtube.com/live/9q7PQfnyYOc?feature=share).
-  
-  Reclining chair containing heaters, vibrators, a handheld controller, AC/DC converters, and linear actuator.
-
-| Photo 1 | Photo 2 | Photo 3 |
-| ------- | ------- | ------- |
-| ![img1](https://i.imgur.com/7ZpcIwY.jpg) | ![img2](https://i.imgur.com/9cUfbzs.jpg) | ![img3](https://i.imgur.com/L0BYT9B.jpg) | 
-
-
-**October Teardown:**
-Gasoline-powered pressure washer
-</details>
-
-
 # Capstone
 Every capstone team submits their documentation before graduation but the new teams have varying access to examples.  This section uses an example capstone team called Flobotics with a product "Ventus," a robot designed to navigate through indoor greenhouses to collect sensor data.
 
-## ♥ Design Tips
+## Design Tips
 
 | Tip                              | Details                                                               |
 | -------------------------------- | --------------------------------------------------------------------- |
@@ -348,10 +313,10 @@ Every capstone team submits their documentation before graduation but the new te
 | 3\. Learn Assemblies in CAD | 👉 You rarely need to model parts nowadays.  Instead, spend extra time learning how to mate and constrain assemblies in your cad software, then grab 3D parts online and put your effort into the _system design_ |
 
 
-## ♥ Web Page
+## Web Page
 [Flobotics Web Page](https://peiyuzhe.wixsite.com/flobotics)
 
-## ♥ Design Concept
+## Design Concept
 This includes the Conceptual Block Diagram, Concept of Operation, Performance Specifications, and Functional Block Diagram
 
 ### Conceptual Block Diagram
@@ -362,7 +327,7 @@ This is a simple CBD, conceptual block diagram.  [CLICK HERE](https://github.com
 
 ... To be further populated ► check back soon!
 
-## ♥ Sourcing
+## Sourcing
 
 #### What vendor should you shop?.
 
@@ -401,7 +366,7 @@ Best* Sources to begin:
 
 # Contact
 
-## ♥ Technical Staff
+## Technical Staff
 
 > We run your labs. If we don't know your needs, they won't be met.
 >
@@ -417,31 +382,28 @@ Best* Sources to begin:
 > **David Malawey**
 > 
 > * Email: malawey@tamu.edu
-> * Office: no office line as of 2023
+> * Office: no office phone
 > * On-site: Thompson 009BB
 > * [Staff Web Page](https://engineering.tamu.edu/etid/profiles/malawey-david.html)
 > * Serving students: this web page, mechatronics engineering support, PIC technology items, technical design questions. 3D printing & manufacturing methods.
-> 
-
-
-
-## ♥ More Tech by David:
-
->
-> These resources are not part of the MXET program but may benefit your education.
 >
 
-| Link | short description |
-| ---- | ----------------- |
-| [SCUTTLE Tech Guide](https://qr.scuttlerobot.org/g/12J5i2t3bp4 ':class=button') | design info for open source robotics |
-| [Youtube Channel](https://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA ':class=button') | DM's youtube channel |
-| [Metal AM Lab](https://engineering.tamu.edu/etid/research/additive-manufacturing-laboratory.html ':class=button') | ETID Additive Manufacturing Lab for metals |
-| [SCUTTLE Discord](https://discord.gg/gSPyhTam9J ':class=button') | interact with robotics makers in realtime |
-| [OpenArm](https://qr.page/g/2wY5JrxcciD ':class=button') | modular arm design project - seeking contributors |
-| [Contact](https://engineering.tamu.edu/etid/profiles/malawey-david.html ':class=button') | public contact info |
+
+## More Tech by David:
+
+>
+> Further resources & open sourced projects.
+>
+
+* [SCUTTLE Tech Guide](https://qr.scuttlerobot.org/g/12J5i2t3bp4) | design info for open source robotics |
+* [Youtube Channel](https://www.youtube.com/channel/UCwirLDXiN1ybgPyIDNt85PA) | DM's youtube channel |
+* [Metal AM Lab](https://engineering.tamu.edu/etid/research/additive-manufacturing-laboratory.html) | ETID Additive Manufacturing Lab for metals |
+* [SCUTTLE Discord](https://discord.gg/gSPyhTam9J) | interact with robotics makers in realtime |
+* [OpenArm](https://qr.page/g/2wY5JrxcciD) | modular arm design project - seeking contributors |
+* [Contact](https://engineering.tamu.edu/etid/profiles/malawey-david.html) | public contact info |
 
 
-## ♥ Glossary
+## Glossary
 
 >
 > Acronyms & definitions for this page specifically:
