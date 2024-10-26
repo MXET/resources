@@ -2,9 +2,9 @@
 
 ![banner image](img/banner.jpg ':class=banner-image')
 
-Resources for Multidisciplinary Engineering Education, including #Mechatronics, #Robotics, #AppliedLearning, #IoT, #Fabrication
+A resource page for Multidisciplinary Engineering. Keywords: Education, Mechatronics, Robotics, Applied Learning, IoT, Fabrication
 
-## ♥ Introduction
+## Introduction
 
 What is this web page for, and how can we use it?
 
@@ -28,7 +28,7 @@ Dear students of MXET & ESET, if you are graduate before 2030, ZERO of your prof
   
   </details>
 
-## ♥ Feedback
+## Feedback
 
 Communication only works if the loop is closed.
 
@@ -46,7 +46,7 @@ Why use the github?  To help students, your lab coordinators use resources from 
 # Power Electronics
 
 
-## ♥ Your Curriculum
+## Your Curriculum
 
 Power calculation & design falls neatly between the curriculum of MXET courses.  Supplementary knowledge is added here to support your projects.
 
@@ -57,84 +57,6 @@ Power calculation & design falls neatly between the curriculum of MXET courses. 
 | Mechatronics    | How to select an actuator?         | how to measure actuator power? |
 | Instrumentation | How to measure one element?        | how to measure power of a system? |
 | Control Systems | How to control power to a motor    | how to control power digitally? |
-
-## ♥ Power Budget
-
-An introduction to creating a power budget. This is oriented to systems that are battery operated, rather than plugged into a wall.  That is, DC systems rather than AC, and using usual electronics voltages such as 5v (USB), 12v (car battery), and 3.3v (digital signal levels)
-
-* PDF Template for MXET [Power budget](https://qr.page/g/3fLXXbQFdPo)
-* Excel Template for MXET [Power budget](https://lobfile.com/file/M2Qt.xlsx)
-
-### Instructional Videos
-
-| Test Power | Make a Power Budget |
-| ---------- | ------------------- | 
-| ![pwr-budget](https://img.youtube.com/vi/s4Syzco1ziM/mqdefault.jpg) | ![pwr-testing](https://img.youtube.com/vi/DKPFsVOTJpw/mqdefault.jpg) |
-| [view on youtube](https://youtu.be/s4Syzco1ziM ':class=button')     | [view on youtube](https://youtu.be/DKPFsVOTJpw ':class=button')      |
-
-## ♥ Power Measurement
-We built you a **Power Bench** station for hands-on testing of powered electronics. The Bench includes testers, adapters, power supplies in the power bench that come with their own instructions shared below.  The components are affordable off-the-shelf tech that you might also buy for your project.
-
-![Power Bench image](https://i.imgur.com/y8rRf60.jpg ':class=image-25')
-
-### Power Bench Design
-
-<div class="accordion">
-
-<details>
-  <summary>Software</summary>
-
-  Get Software  
-  _Software is only necessary if you wish to use the CBA (computerized battery analyzer)_
-
- * [CBA IV Power Analyzer](https://www.westmountainradio.com/kb_view_topic.php?id=OT39), ► grab software for model IV
- </details>
-
-<details>
-  <summary>Hardware</summary>
-
-   _CAD Design files: STL to print, SOLIDWORKS to modify, or STEP to build assemblies in your own CAD software_
-
-  * [DIN rail](https://grabcad.com/library/din-rail-36 "din rail model"), an industrial building block for electronics
-  * [DIN brackets](https://grabcad.com/library/compliant-din-brackets-1 "DIN Bracket designs"), 3D-Printed and easily customize
-  * [Extrusions](https://grabcad.com/library/extrusion-variants-3030-1), 30x30mm for building frames.
- </details>
- 
-<details>
-  
-  <summary>Instruments</summary>
-
-| Utility | Device | Link or PDF |
-| ------- | ------ | ----------- |
-| Power Supply, 600W | Power supply, ATX | [GX2 User Manual](https://www.thermaltakeusa.com/toughpower-gx2-600w.html) |
-| Power Supply, USB 120w | 818H GaN hub |  [USB Power Supply - PDF](https://qr.page/g/51rwPdnPbKS) |
-| Test & log loads | CBA by West Mountain Radio | [CBA IV User Manual](https://qr.page/g/2Gbm5eF5LD9) PDF |
-| Test battery capacity | CBA by West Mountain Radio | [CBA IV User Manual](https://qr.page/g/2Gbm5eF5LD9) PDF |
-| Power Meter, DC, 45A | Powerwerx | [Power Meter Manual](https://qr.page/g/40KLe1ff1lB) |
-| Power Meter, AC | Amazon Product | [Power Meter, AC](https://qr.page/g/2Gz7zQ1hXL5) PDF |
-| Power Meter, USB-C | Amazon Product | [Power Meter, USB-C](https://qr.page/g/2fG6cJvZi27) PDF |
-  
-</details>
-
-<details>  
-  <summary>Electronics Accessories</summary>
-
-  * [USB-C Breakout](https://www.amazon.com/gp/product/B09KC1SMGD), on amazon
-  * [USB-C PD Trigger](https://www.amazon.com/gp/product/B0B688HK9S) on amazon.
-  * [Power Breakout, ATX](https://www.amazon.com/gp/product/B07S91NQL3) on amazon. 
-  
-</details>
-
-</div>
-
-
-### Power Bench Instructions
-
-* [PDF index](https://qr.page/g/2fG6cJvZi27) breaks down instructions
-* [PDF queries](https://qr.page/g/1FG90ytGtOp) shows what you can test
-* [PDF Example Results](https://qr.page/g/LcfYDDoNz6) shows example results
-* [Video - Power Budgeting](https://qr.scuttlerobot.org/g/RkNMzfI67w) an introduction to creating a power budget (advanced).
-
 
 # Tools
 
@@ -147,17 +69,15 @@ The most highly recommended tools for MXET projects, and also used to build the 
 * [Round Wire Stripper](https://qr.scuttlerobot.org/g/2AplH9VFcYL)
 * [Flush Cutters](https://qr.page/g/3ffmXrqe0EX)
 
-## ♥ Magic Schoolbox
-A smart toolbox: each tool with an instructional video.  A self-service policy: use it and respect it.  
+## Magic Schoolbox
+A smart toolbox: each tool with an instructional video directly designed for you.  Toolbox self-service policy: use it and respect it.  
 
 ![magic schoolbox drawer](https://i.imgur.com/zZKRNVE.jpg)
 
 ![tools_svg](/img/handTools2.svg)
 
-❗ WATCH THE VIDEOS. ❗ When the videos were scripted, the audience is YOU. You will learn something new and valuable.
 
-
-## ♥ E-tools
+## E-tools
 
 Handy sites for researching what you need:
 | What you need | Site | Best for | Tips | 
