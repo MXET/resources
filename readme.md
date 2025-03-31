@@ -1,3 +1,3 @@
-Welcome to MXET Resources by D Malawey!
+Welcome to MXET Resources by David Malawey!
 
-This repository is best [viewed as a webpage](https://qr.page/g/4ZptmdWxn5y).  Enjoy!
+This repository is best [viewed as a webpage](https://qr.net/mxet).  Enjoy!
