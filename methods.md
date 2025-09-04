@@ -5,6 +5,11 @@ This is a page to educate students on methods for prototyping in multidisciplina
 # Videos
 Tutorials by video to complement your educatinal materials.
 
+## Aluminum Extrusions
+Rails, brackets, examples, and SOLIDWORKS demonstration to save you tons of time. All the top information for building with aluminum extrusions - please watch before you plan your design!  
+* download [solidworks example files, 2mb](https://lobfile.com/file/ML2JEkJs.zip)
+<iframe width="1250" src="https://www.youtube.com/embed/cLrIE6ltErE" title="Aluminum Extrusions Fundamentals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Power your Prototype
 A simpler, newer method to simultaneously boot a microcontroller and drive an actuator (motor, servo, stepper, etc).  This tutorial was designed to reduce the tabletop wiring and free up space while you test out multiple controllers and devices but before they are integrated in your project.  Learn to access those 50 watts claimed by the GaN USB wall adapters, with a setup that is quick to solder with just a few components.   Also find some mechanical tips for loose devices to be more secure.
 
@@ -12,13 +17,13 @@ A simpler, newer method to simultaneously boot a microcontroller and drive an ac
 
 ## Clean up your Wires
 Components, methods, and considerations for organizing wires in projects.  It's best to watch this before you design, so you can discover parts to integrate in your project plans.
-<iframe width="1250" height="703" src="https://www.youtube.com/embed/31hwwpmNlCo" title="More about USB than you ever wanted to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1250" src="https://www.youtube.com/embed/31hwwpmNlCo" title="More about USB than you ever wanted to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Design an Enclosure
 How to plan an enclosure, select components, and make a successful prototype.  Involve 3D printing or skip it altogether.
 
-<iframe width="1250" height="703" src="https://www.youtube.com/embed/i4oJTfp18eg" title="More about USB than you ever wanted to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1250" src="https://www.youtube.com/embed/i4oJTfp18eg" title="More about USB than you ever wanted to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Adhesives Guide
