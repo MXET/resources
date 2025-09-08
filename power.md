@@ -108,10 +108,21 @@ An introduction to creating a power budget. This is oriented to systems that are
 
 ### Instructional Videos
 
-| Test Power | Make a Power Budget |
-| ---------- | ------------------- | 
-| ![pwr-budget](https://img.youtube.com/vi/s4Syzco1ziM/mqdefault.jpg) | ![pwr-testing](https://img.youtube.com/vi/DKPFsVOTJpw/mqdefault.jpg) |
-| [view on youtube](https://youtu.be/s4Syzco1ziM ':class=button')     | [view on youtube](https://youtu.be/DKPFsVOTJpw ':class=button')      |
+**Test Power for anything with just 3 Devices**
+[view on youtube](https://youtu.be/s4Syzco1ziM)
+<iframe width="1250" src="https://www.youtube.com/embed/s4Syzco1ziM" title="3 Ways to test Power Draw for mechatronics designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**How to Make a Power Budget**
+[youtube - power budgeting](https://youtu.be/DKPFsVOTJpw)
+<iframe width="1317" height="741" src="https://www.youtube.com/embed/DKPFsVOTJpw" title="Power Budget Explained [Mechatronics Capstone Projects]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Use our Power Bench**
+Images below show the key information you need to get started, and how the test bench works.
+
+* ![setup_test](/img/img_powerBench1.jpg)
+* ![power_devices](img/img_powerBench2.jpg)
+* ![device layout](img/img_powerBench3.jpg)
+* ![benchtop supply](img/img_powerBench4.jpg)
 
 ## Power Measurement
 We built you a **Power Bench** station for hands-on testing of powered electronics. The Bench includes testers, adapters, power supplies in the power bench that come with their own instructions shared below.  The components are affordable off-the-shelf tech that you might also buy for your project.
