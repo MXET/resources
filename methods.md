@@ -3,7 +3,7 @@
 This is a page to educate students on methods for prototyping in multidisciplinary design projects.  Hope you benefit from these lessons taken from my experience + 1 decade of observing senior design projects, and graduate research projects.
 
 # Videos
-Tutorials by video to complement your educatinal materials.
+Tutorials by video to complement your educational materials.
 
 ## Aluminum Extrusions
 Rails, brackets, examples, and SOLIDWORKS demonstration to save you tons of time. All the top information for building with aluminum extrusions - please watch before you plan your design!  
