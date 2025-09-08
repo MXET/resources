@@ -1,7 +1,9 @@
 ## Power Measurement
 We built you a **Power Bench** station for hands-on testing of powered electronics. The Bench includes testers, adapters, power supplies in the power bench that come with their own instructions shared below.  The components are affordable off-the-shelf tech that you might also buy for your project.
 
-![Power Bench image](https://i.imgur.com/y8rRf60.jpg ':class=image-25')
+This webpage is built around electronics and methods documented essentially in these two key PDF files, [PowerBench-Examples](https://github.com/MXET/resources/blob/52e25d3daa446509823e69ba1ae855bc5f3c8c2d/doc/2024_PowerBench_Examples.pdf) and [PowerBench-Documentation](https://github.com/MXET/resources/blob/52e25d3daa446509823e69ba1ae855bc5f3c8c2d/doc/2024_PowerBench_Documentation.pdf)  It's all designed so you _do not need to know the whole system_ and you can simply use one module and benefit.
+
+![power bench diagram](img/img_powerBench2.jpg)
 
 ### Test Bench
 
