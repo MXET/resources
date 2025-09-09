@@ -1,21 +1,13 @@
 ![banner image](img/banner.jpg ':class=banner-image')
 
-## What is "MXET Resources"?
+## Introduction
 
-A resource page for Multidisciplinary Engineering. Keywords: Education, Mechatronics, Robotics, Applied Learning, IoT, Fabrication
+A resource page for Engineering Technology by David Malawey, Laboratory Coordinator at Texas A&M. Keywords: Education, Mechatronics, Robotics, Applied Learning, IoT, Fabrication
 
-What is this web page for, and how can we use it?
+This is an ongoing collection of relevant information for Engineering Technology students. Each year I support student teams in Engineering Technology, and attempt to include useful information here in this repository.
 
-<details>
-  <summary> To students: </summary>
-Dear students of MXET & ESET, if you are graduate before 2030, ZERO of your professors graduated from a multidisciplinary degree program. You're in new territory where at times, the professor who is an expert in one part of your field may be a novice in adjacent fields that you study.  Therefore, you are challenged to balance the knowledge expectations of multiple disciplines among your educators.  You are paving a new path in the industry and you can do it!  Best wishes from David Malawey, your lab coordinator.
-  </details>
-
-<br />
-
-<details>
-  
-  <summary>View latest updates: </summary>
+  <details>
+  <summary>To view latest updates: </summary>
   
   [click here](https://github.com/MXET/resources/commits/main) to see the change log.
 
@@ -27,14 +19,26 @@ Dear students of MXET & ESET, if you are graduate before 2030, ZERO of your prof
   </details>
 
 ## More Open Projects
-More Open Source designs initiated by DM & SCUTTLE team:
-* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
-* [Mechatronics Resources](https://bit.ly/openmechatronics)
-* [OpenArm](https://bit.ly/openarm)
-* [OpenJar](https://bit.ly/openjarproject_v1)
-* [OpenBox](https://bit.ly/openboxproject)
-* [OpenSpin](https:/bit.ly/openspinproject)
-* [OpenAir](https://bit.ly/openairproject)
+
+Please note OpenLab specifically is the largest of these repositories.  It's all about building good functional labs.  It has info about organizing, lists of tools, and some videos for Makers.
+
+>
+> More opensource design projects for specific categories:
+>
+> | Project | Link | Purpose | 
+> | --------- | ----- | ----------- | 
+> | OpenAir | [qr.net/openairproject](https://qr.net/openairproject) | take control of air, pressure, & flow with open elements | 
+> | OpenArm | [qr.net/openarmproject](https://qr.net/openarmproject) | revolutionize robotic arms, a 10-year goal | 
+> | OpenBox | [qr.net/openboxproject](https://qr.net/openboxproject) | array of open designs beginning with a steel box | 
+> | OpenGrow | [qr.net/opengrowproject](https://qr.net/opengrowproject) | open designs for hydroponics & aquaponics systems | 
+> | OpenJar | [qr.net/openjarproject](https://qr.net/openjarproject) | array of designs for standard jars, threads, & seals |
+> | OpenLab | [qr.net/openlabproject](https://qr.net/openlabproject) | build a laboratory to design & fabricate anything. |
+> | openME | [qr.net/openmeproject](https://qr.net/openmeproject) | a Mechanical Engineering degree, comprehensive & free, in-progress | 
+> | OpenSpin | [qr.net/openspinproject](https://qr.net/openspinproject) | array of designs based on parametric bearings | 
+> | SCUTTLE_Nigeria | [qr.net/scuttleafrica](https://qr.net/scuttleafrica) | university-level robotics lab in Lagos, Nigeria |
+> | MXET | [qr.net/mxet](https://qr.net/mxet) | resources for multidisciplinary engineering |
+>
+
 
 ## Feedback
 
