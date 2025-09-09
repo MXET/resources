@@ -18,9 +18,9 @@ This is an ongoing collection of relevant information for Engineering Technology
   
   </details>
 
-## More Open Projects
+## More Designs
 
-Please note OpenLab specifically is the largest of these repositories.  It's all about building good functional labs.  It has info about organizing, lists of tools, and some videos for Makers.
+OpenLab specifically is the largest of these repositories.  It's all about building good engineering labs.  It has info about organizing, lists of tools, and some videos for Makers.
 
 >
 > More opensource design projects for specific categories:
