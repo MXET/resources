@@ -9,7 +9,7 @@ Long-term discussions.  To me, these topics are highly important and low-urgency
 >
 > Engineering Lab Designs that Belong
 > _I watched my efforts from 2020 to 2025 discarded in the ETID department but that work was not replaced and our education of students has suffered. This is the story and my prompt for improvements._
-> * [MXET Education Fitness, PDF 500KB](docs/2025_MXET_Education_Fitness_v2.pdf)
+> * [MXET Education Fitness, PDF 500KB](doc/2025_MXET_Education_Fitness_v2.pdf)
 >
 >
 
