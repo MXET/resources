@@ -3,3 +3,4 @@
 - [Power](power)
 - [Downloads](downloads)
 - [Research](research)
+- [Educators](educators)
