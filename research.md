@@ -50,6 +50,7 @@ The test geometry should not be considered fixed.  With digital control of the g
  <br /><br />
  Figure 1: Test Aparatus <br />
  Figure 1 The basic test assembly is simple and easy to adapt.   A 3D printed fixture can be mounted in an ordinary vise & torque is measured with a beam-style torque wrench.  Finer instruments can be used if needed. 
+ <br />
  <img src="https://i.imgur.com/6gJ2nkE.jpeg" width="400" />
  
  <br /><br />
