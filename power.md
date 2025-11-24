@@ -67,8 +67,14 @@ Problems that were solved using the bench (examples):
 ## Batteries
 Updated 2025.11. We have a PDF document to give a sense of battery capacity, with three great example choices for projects, and lots of data.  What does a Watt-hour feel like?  How does it translate into tool runtime?  How much max power do you need for different applications?  What terminal choice will connect your power, easily connect, and fit the amperage you need?  Download the PDF below for an introduction - this is from 10 years of battery exploration by David M. Next, this section is for proper handling of li-ion cells in the SCUTTLE Robot battery pack used in MXET300.  The CAD model includes every component for BMS, Cells, and Output.  The notes also serve for general use of li-ion batteries and charging.
 
-* [Battery Design PDF](https://lobfile.com/file/yEMP228Y.pdf)
+* [Battery Design PDF](https://lobfile.com/file/sPNEAkUt.pdf)
 * [SCUTTLE Battery Model](https://grabcad.com/library/batterypackv3-1)
+
+The images below are previews from the Battery Design PDF.  It maybe further revised, and has been named "choosing a battery" or "battery types examples" or "undersanding dc power."  When a design is multidisciplinary, often the battery, motors, and user experience must be designed together at once.  So, this PDF carries introductory information about several topics.  For starters, just see the three good battery examples which are well-tested and suitable for many projects.
+
+![battery types image](img/img_batteryTypes1.jpg)
+![battery testing motor](img/img_batteryMotor.jpg)
+![battery power terminals](img/img_batteryConnectors.jpg)
 
   
 ### Terminology:
@@ -76,35 +82,6 @@ SOC = state of charge
 BMS = battery management system
 3S = 3 cells in series
 3C = the letter "c" indicates "amperage at which a battery drains in 1 hour" where most typical discharge tests center around 1C
-
-### Cautions
-The batteries are the part of the robot with the most frequent failures due to mistreatment.
-
-The battery may be charged with any 12v power supply as the BMS will prevent excessive current.  Or, cells can be removed and charged in an off-the-shelf 18650 battery charger, for Lithium Ion Cells.
-
-If you need to remove cells, remove them carefully and evenly so the cosmetic wrap does not tear!
-
-When charging, the onboard battery management system (BMS) protects the cells from overcurrent. However, if the input current exceeds around 10A momentarily, the BMS will disconnect current and needs disconnection of charger to reset.  
-
-### Charging from low SoC:
-
-If you allow cells to drop down to low voltage (around 9.0v total) then the initial charging current may be high, and trip the BMS safety.  At low voltages, start your charging with a power supply that limits voltage (ie 10v) or limits current (ie 6A).
-
-These cells are rated TRULY, over 3000 mAh from Panasonic - they are a leading model number in the market and not easy to order small quantities, so take care of cells at all times!
-
-### Helpful features: 
-You can charge this battery and operate your robot at the same time!  Connect your power supply to one terminal pair while running your CPU from the other terminal pair, for use cases like testing software and reading sensors, and operating the Pi for long periods.
-
-You may check the cells by multimeter at any time (probe + and - of one cell's terminals) to verify the voltage.  There is no need to remove the cells for measurement. Cells should be balanced within 0.2 volts across the 3 cells.
-
-You can safely charge the batteries with various reasonable sources such as 12v solar panel or a larger battery, provided the current does not exceed shutoff-threshold.  BMS shutoff does not cause damage – test your setup with good engineering planning.
-
-The BMS offers max-voltage shutoff as well, around 14v.  If the input voltage is too high (such as fluctuating solar panel) then the BMS will shut off regardless of current.
-
-### Damaged Cells:
-
-If a cell has a low voltage, it is irreparably damaged.  They may survive as low as 2.8 volts momentarily but if stored below 2.8 volts you can trust the cell is ready for the recycle bin.
-
 
 ## Power Budget
 
