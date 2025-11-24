@@ -58,7 +58,7 @@ Why use the github?  To help students, your lab coordinators use resources from 
 # Power Electronics
 
 
-## Your Curriculum
+## Curriculum
 
 Power calculation & design falls neatly between the curriculum of MXET courses.  Supplementary knowledge is added here to support your projects.
 
@@ -221,8 +221,8 @@ Each part has a special feature that make them examples to learn from.  But sepa
 > In conclusion, the drafter needs to know how the drawing will be used in order to know what to include in the drawing.  And, drawings are ultimately just like any other communication.
 > 
 
-### Example Drawings:
-
+### Drawings:
+Example Drawings. Review these well made design drawings to help understand how to communicate your designs.
 | Extrusion | Stamping | Rolled Steel | Plastic Injection |
 | --------- | -------- | ------------ | ----------------- |
 | ![ext](https://i.imgur.com/EMynhzi.jpg) | ![stmp](https://i.imgur.com/XsdbPrz.jpg) | ![roll](https://i.imgur.com/qskUf6y.jpg) | ![inj](https://i.imgur.com/ep8rdOh.jpg) |
