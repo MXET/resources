@@ -65,10 +65,10 @@ Problems that were solved using the bench (examples):
 
 
 ## Batteries
-Updated 2025.11, we have a PDF document to give a sense of battery capacity, with three great example choices for projects, and lots of data.  What does a Watt-hour feel like?  How does it translate into tool runtime?  How much max power do you need for different applications?  What terminal choice will connect your power, easily connect, and fit the amperage you need?  Download the PDF below for an introduction - this is from 10 years of battery exploration by David M. Next, this section is for proper handling of li-ion cells in the SCUTTLE Robot battery pack used in MXET300.  The CAD model includes every component for BMS, Cells, and Output.  The notes also serve for general use of li-ion batteries and charging.
+Updated 2025.11. We have a PDF document to give a sense of battery capacity, with three great example choices for projects, and lots of data.  What does a Watt-hour feel like?  How does it translate into tool runtime?  How much max power do you need for different applications?  What terminal choice will connect your power, easily connect, and fit the amperage you need?  Download the PDF below for an introduction - this is from 10 years of battery exploration by David M. Next, this section is for proper handling of li-ion cells in the SCUTTLE Robot battery pack used in MXET300.  The CAD model includes every component for BMS, Cells, and Output.  The notes also serve for general use of li-ion batteries and charging.
 
-* ![Battery Design PDF](https://lobfile.com/file/yEMP228Y.pdf)
-* [SCUTTLE Battery Pack Design](https://grabcad.com/library/batterypackv3-1)
+* [Battery Design PDF](https://lobfile.com/file/yEMP228Y.pdf)
+* [SCUTTLE Battery Model](https://grabcad.com/library/batterypackv3-1)
 
   
 ### Terminology:
