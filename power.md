@@ -72,9 +72,9 @@ Updated 2025.11. We have a PDF document to give a sense of battery capacity, wit
 
 The images below are previews from the Battery Design PDF.  It maybe further revised, and has been named "choosing a battery" or "battery types examples" or "undersanding dc power."  When a design is multidisciplinary, often the battery, motors, and user experience must be designed together at once.  So, this PDF carries introductory information about several topics.  For starters, just see the three good battery examples which are well-tested and suitable for many projects.
 
-![battery types image](img/img_batteryTypes1.jpg)
-![battery testing motor](img/img_batteryMotor.jpg)
-![battery power terminals](img/img_batteryConnectors.jpg)
+- ![battery types image](img/img_batteryTypes1.jpg)
+- ![battery testing motor](img/img_batteryMotor.jpg)
+- ![battery power terminals](img/img_batteryConnectors.jpg)
 
   
 ### Terminology:
@@ -91,14 +91,15 @@ An introduction to creating a power budget. This is oriented to systems that are
 * Excel Template for MXET [Power budget](https://lobfile.com/file/M2Qt.xlsx)
 
 ### Instructional Videos
+Videos embedded right here for testing power, planning a powered design, and using the power bench station at Thompson Hall
 
 **Test Power for anything with just 3 Devices**
 [view on youtube](https://youtu.be/s4Syzco1ziM)
-<iframe width="1250" src="https://www.youtube.com/embed/s4Syzco1ziM" title="3 Ways to test Power Draw for mechatronics designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" src="https://www.youtube.com/embed/s4Syzco1ziM" title="3 Ways to test Power Draw for mechatronics designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **How to Make a Power Budget**
 [youtube - power budgeting](https://youtu.be/DKPFsVOTJpw)
-<iframe width="1317" height="741" src="https://www.youtube.com/embed/DKPFsVOTJpw" title="Power Budget Explained [Mechatronics Capstone Projects]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" src="https://www.youtube.com/embed/DKPFsVOTJpw" title="Power Budget Explained [Mechatronics Capstone Projects]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Use our Power Bench**
 Images below show the key information you need to get started, and how the test bench works.
@@ -116,29 +117,21 @@ We built you a **Power Bench** station for hands-on testing of powered electroni
 ### Power Bench Design
 
 <div class="accordion">
-
 <details>
-  <summary>Software</summary>
+  <summary>Software, Hardware, Instruments </summary>
 
-  Get Software  
-  _Software is only necessary if you wish to use the CBA (computerized battery analyzer)_
+**Software** 
+Software is only necessary if you wish to use the CBA (computerized battery analyzer)_
+   * [CBA IV Power Analyzer](https://www.westmountainradio.com/kb_view_topic.php?id=OT39), ► grab software for model IV
 
- * [CBA IV Power Analyzer](https://www.westmountainradio.com/kb_view_topic.php?id=OT39), ► grab software for model IV
- </details>
-
-<details>
-  <summary>Hardware</summary>
-
-   _CAD Design files: STL to print, SOLIDWORKS to modify, or STEP to build assemblies in your own CAD software_
+**CAD Models**
+CAD Design files: STL to print, SOLIDWORKS to modify, or STEP to build assemblies in your own CAD software.
 
   * [DIN rail](https://grabcad.com/library/din-rail-36 "din rail model"), an industrial building block for electronics
   * [DIN brackets](https://grabcad.com/library/compliant-din-brackets-1 "DIN Bracket designs"), 3D-Printed and easily customize
   * [Extrusions](https://grabcad.com/library/extrusion-variants-3030-1), 30x30mm for building frames.
- </details>
- 
-<details>
-  
-  <summary>Instruments</summary>
+
+**Instruments** 
 
 | Utility | Device | Link or PDF |
 | ------- | ------ | ----------- |
@@ -150,17 +143,12 @@ We built you a **Power Bench** station for hands-on testing of powered electroni
 | Power Meter, AC | Amazon Product | [Power Meter, AC](https://qr.page/g/2Gz7zQ1hXL5) PDF |
 | Power Meter, USB-C | Amazon Product | [Power Meter, USB-C](https://qr.page/g/2fG6cJvZi27) PDF |
   
-</details>
-
-<details>  
-  <summary>Electronics Accessories</summary>
-
+**Instruments** 
   * [USB-C Breakout](https://www.amazon.com/gp/product/B09KC1SMGD), on amazon
   * [USB-C PD Trigger](https://www.amazon.com/gp/product/B0B688HK9S) on amazon.
   * [Power Breakout, ATX](https://www.amazon.com/gp/product/B07S91NQL3) on amazon. 
   
 </details>
-
 </div>
 
 
