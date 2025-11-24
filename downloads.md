@@ -18,6 +18,10 @@ Some key components are a window to discover items you didn't know that you need
                              
 ## Guides
 
+**Guides by David M**
+* [Battery Design PDF](https://lobfile.com/file/yEMP228Y.pdf)
+
+**Guides Collected Online**
  - [Cable Design Guide - amphenol](https://www.peigenesis.com/images/content/solutionguides/cookbook.pdf)
  - [Terminal Blocks Guide - automationdirect](https://lobfile.com/file/sPZ3H9zN.pdf)
  - [Timing Belt Design Guide](https://lobfile.com/file/UXbudfRZ.pdf)
