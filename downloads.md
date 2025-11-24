@@ -19,7 +19,7 @@ Some key components are a window to discover items you didn't know that you need
 ## Guides
 
 **Guides by David M**
-* [Battery Design PDF](https://lobfile.com/file/yEMP228Y.pdf)
+* [Battery Design PDF](https://lobfile.com/file/sPNEAkUt.pdf)
 
 **Guides Collected Online**
  - [Cable Design Guide - amphenol](https://www.peigenesis.com/images/content/solutionguides/cookbook.pdf)
