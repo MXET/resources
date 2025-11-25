@@ -2,9 +2,7 @@
 
 ## Introduction
 
-A resource page for Engineering Technology by David Malawey, Laboratory Coordinator at Texas A&M. Keywords: Education, Mechatronics, Robotics, Applied Learning, IoT, Fabrication
-
-This is an ongoing collection of relevant information for Engineering Technology students. Each year I support student teams in Engineering Technology, and attempt to include useful information here in this repository.
+A resource page for Engineering Technology by David Malawey, Laboratory Coordinator at Texas A&M. Keywords: Education, Mechatronics, Robotics, Applied Learning, IoT, Fabrication. This is an ongoing collection of relevant information for Engineering Technology students. Each year I support student teams in Engineering Technology, and attempt to include useful information here in this repository.
 
   <details>
   <summary>To view latest updates: </summary>
@@ -20,19 +18,19 @@ This is an ongoing collection of relevant information for Engineering Technology
 
 ## More Designs
 
-OpenLab specifically is the largest of these repositories.  It's all about building good engineering labs.  It has info about organizing, lists of tools, and some videos for Makers.
+OpenLab is the largest of these repositories.  It's all about building good engineering labs.  It has info about organizing, lists of tools, and some videos for Makers.
 
 >
 > More opensource design projects for specific categories:
 >
 > | Project | Link | Purpose | 
 > | --------- | ----- | ----------- | 
+> | OpenLab | [qr.net/openlabproject](https://qr.net/openlabproject) | build a laboratory to design & fabricate anything. |
 > | OpenAir | [qr.net/openairproject](https://qr.net/openairproject) | take control of air, pressure, & flow with open elements | 
 > | OpenArm | [qr.net/openarmproject](https://qr.net/openarmproject) | revolutionize robotic arms, a 10-year goal | 
 > | OpenBox | [qr.net/openboxproject](https://qr.net/openboxproject) | array of open designs beginning with a steel box | 
 > | OpenGrow | [qr.net/opengrowproject](https://qr.net/opengrowproject) | open designs for hydroponics & aquaponics systems | 
 > | OpenJar | [qr.net/openjarproject](https://qr.net/openjarproject) | array of designs for standard jars, threads, & seals |
-> | OpenLab | [qr.net/openlabproject](https://qr.net/openlabproject) | build a laboratory to design & fabricate anything. |
 > | openME | [qr.net/openmeproject](https://qr.net/openmeproject) | a Mechanical Engineering degree, comprehensive & free, in-progress | 
 > | OpenSpin | [qr.net/openspinproject](https://qr.net/openspinproject) | array of designs based on parametric bearings | 
 > | SCUTTLE_Nigeria | [qr.net/scuttleafrica](https://qr.net/scuttleafrica) | university-level robotics lab in Lagos, Nigeria |
@@ -56,19 +54,6 @@ Why use the github?  To help students, your lab coordinators use resources from 
 
 
 # Power Electronics
-
-
-## Curriculum
-
-Power calculation & design falls neatly between the curriculum of MXET courses.  Supplementary knowledge is added here to support your projects.
-
-| Course          | Covers                             | Not covered |
-| --------------- | ---------------------------------- | ----------- |
-| Circuits        | How is energy calculated?          | how to power my project? |
-| Thermodynamics  | Where does energy go?              | what is my circuit efficiency? |
-| Mechatronics    | How to select an actuator?         | how to measure actuator power? |
-| Instrumentation | How to measure one element?        | how to measure power of a system? |
-| Control Systems | How to control power to a motor    | how to control power digitally? |
 
 # Tools
 
@@ -176,11 +161,6 @@ Polymer additive manufacturing requires knowledge of the manufacturing process j
 | ------------------------------------- | -------------------------------------- | 
 | <iframe width="560" height="315" src="https://www.youtube.com/embed/HYnm2MD0Nks"></iframe> | <iframe width="560" height="315" src="https://www.youtube.com/embed/LMyhFwJscI0"></iframe> |
 | [On Youtube](https://youtu.be/HYnm2MD0Nks ':class=button')                                 | [On Youtube](https://youtu.be/LMyhFwJscI0 ':class=button')                                 |
-
-> Working with Polymers
-* Cutting & working with HDPE [A Great PDF Guide by a manufacturer](https://www.emcoplastics.com/assets/pdf/HDPE/HDPE%20Fabrication%20Guide.pdf)
-* This is one of the most useful but troubling plastics.  It's very tough, very affordable, and chemical resistant, but it has a lot of "buts."  For example, YOU CANNOT LASER CUT IT, it's incredibly difficult to glue, and when cutting, it gums up the teeth of saws and blades when using typical speeds/feeds.  So, it deserves it's own guide.
-
 
 ### Metals
 
