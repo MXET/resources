@@ -1,9 +1,13 @@
 ## MCU Designs
 
-(December 2025) I am posting a compilation of microcontrollers & sensors from my self-study and device trials.  This is nearly 10 years of self-study packaged in one PDF.  But, I'm also sharing the source files in PPTX so you can neatly make notes for your own projects. While I tested out popular sensors and MCUs between 2016 and 2025 I wrote my own notes to record the wiring layouts.  Now, we can use AI to enhance these for the first time ever.  So, I made some minor improvements to reach a quality level worth sharing. Specifically, it's very challenging to produce clean images of the microcontrollers, which you find on many tutorial sites like LastMinuteEngineers where the quality of the diagram is the difference between a successful trial and another confusing waste of time.
+(December 2025) I am posting a compilation of microcontrollers & sensors documents, mainly diagrams, from my self-study and device trials.  This is nearly 10 years of self-study packaged in one PDF.  But, I'm also sharing the source files in PPTX so you can neatly make notes for your own projects. While I tested out popular sensors and MCUs between 2016 and 2025 I wrote my own notes to record the wiring layouts.  Now, we can use AI to enhance these for the first time ever.  So, I made some minor improvements to reach a quality level worth sharing. Specifically, it's very challenging to produce clean images of the microcontrollers, which you find on many tutorial sites like LastMinuteEngineers where the quality of the diagram is the difference between a successful trial and another confusing waste of time.
 
 * Download the [Diagrams PDF (53 slides, 5mb)](https://github.com/MXET/resources/blob/a1f77c870dd3d441110d524be8c15b135d15957b/doc/2025_ESP_Diagrams.pdf)
 * Download the [diagrams source files, pptx, drawio](https://github.com/MXET/resources/blob/a1f77c870dd3d441110d524be8c15b135d15957b/doc/2025_ESP_Diagrams.zip)
+
+- ![image slide sample1](img/mcu_slideSample1.jpg)
+- ![image slide sample2](img/mcu_slideSample2.jpg)
+- ![image_slideSample3](img/mcu_slideSample3.jpg)
 
 **Purpose**
 (copied from the PDF) This document is a consolidated pack of my notes for self-study of wireless IoT microcontrollers and integration of sensors.
@@ -27,7 +31,7 @@ For those self-teaching with sensors:
 | Lastminuteengineers.com | dc motor driver control         |
 
 **Devices Tested**
-The table below gives some sense of the devices I have selected for testing.  My choice is based on: Which devices has the highest usability in its class?  Which devices is produced in high volume, offers good datasheets, and has been on the market for a long time?  Some of my most important sensors appear outside of this page.  Those may appear within the SCUTTLE Robot design docs at the (SCUTTLE_Tech_Guide repository)[https://qr.net/scuttleproject] in the wiring diagrams section.
+The table below gives some sense of the devices I have selected for testing.  My choice is based on: Which devices has the highest usability in its class?  Which devices is produced in high volume, offers good datasheets, and has been on the market for a long time?  Some of my most important sensors appear outside of this page.  Those may appear within the SCUTTLE Robot design docs at the [SCUTTLE_Tech_Guide repository](https://qr.net/scuttleproject) in the wiring diagrams section.
 
 | Type              | Device                | Model            | Diagram            |
 | ----------------- | --------------------- | ---------------- | ------------------ |
