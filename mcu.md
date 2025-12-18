@@ -60,3 +60,13 @@ The table below gives some sense of the devices I have selected for testing.  My
 
 ## Help Wanted
 You can see this was a great deal of work before AI was available.  By now, getting help could be much easier.  I would like to transform the above project into a uniform set of source documents for the world.  If you wish to help improve this resources, please find my discord and hop into the community! 
+
+## Printables
+
+I designed simple, effective enclosures for testing with the ESP boards.  You can access these models, as they are ready to print without supports, with any ordinary FDM printer. 
+* Access my [grabCAD 'case' model](https://grabcad.com/library/esp_case-1)
+
+The images below come from the grabCAD post as a preview.  The two devices ESP32 and ESP8266 have nearly identical shapes but ESP32 is slightly larger. Grab any fine screws near the size M2.5 (course threads for plastic) and secure the board into the case with at least two screws to get going.  
+- ![image cases together](https://s3.amazonaws.com/gc-p/screenshots/pics/07dc2246bab8d42903e4465fbb25c18f/original.JPG)
+- ![image of case for ESP32](https://s3.amazonaws.com/gc-p/screenshots/pics/246b990080177a0ac8d4c3cdb6ae97d6/original.JPG)
+- ![image of case for ESP-WROOM](https://s3.amazonaws.com/gc-p/screenshots/pics/c787044e6e53ef5a4b220832b0bf17e4/original.jpg)
