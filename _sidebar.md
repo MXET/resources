@@ -1,6 +1,7 @@
 - [Home](home)
 - [Methods](methods)
 - [Power](power)
+- [Microcontrollers](mcu)
 - [Downloads](downloads)
 - [Research](research)
 - [Educators](educators)
