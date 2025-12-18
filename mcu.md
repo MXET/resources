@@ -27,15 +27,32 @@ For those self-teaching with sensors:
 | Lastminuteengineers.com | dc motor driver control         |
 
 **Devices Tested**
-The table below gives some sense of the devices I have selected for testing.  My choice is based on: Which devices has the highest usability in its class?  Which devices is produced in high volume, offers good datasheets, and has been on the market for a long time?
+The table below gives some sense of the devices I have selected for testing.  My choice is based on: Which devices has the highest usability in its class?  Which devices is produced in high volume, offers good datasheets, and has been on the market for a long time?  Some of my most important sensors appear outside of this page.  Those may appear within the SCUTTLE Robot design docs at the (SCUTTLE_Tech_Guide repository)[https://qr.net/scuttleproject] in the wiring diagrams section.
 
-| microcontrollers | analog sensors | digital sensors       |
-| ---------------- | -------------- | --------------------- |
-| ESP8266          | soil moisture  | temp-humidity SHT31   |
-| ESP32            | buzzer         | ambient light TLS2591 |
-| ESPWROOM         | IR motion      | temperature DS18B20   |
-|                  | float switch   | sd card reader        |
-|                  | micro limit switch| WS2811 RGB LED     |
+| Type              | Device                | Model            | Diagram            |
+| ----------------- | --------------------- | ---------------- | ------------------ |
+| microcontrollers  | ESP8266               | ESP8266          | :white_check_mark: |
+| microcontrollers  | ESP32                 | ESP32            | :white_check_mark: |
+| microcontrollers  | ESPWROOM              | ESPWROOM         | :white_check_mark: |
+| analog sensors    | soil moisture         |                  | :white_check_mark: |
+| analog sensors    | buzzer, 4kHz          | T1438-TWT-R      | :white_check_mark: |
+| analog sensors    | IR motion             | AM312            | :white_check_mark: |
+| analog sensors    | micro limit switch    | KW12-3           | :white_check_mark: |
+| analog sensors    | float switch          | ZP4510           | :white_check_mark: |
+| digital sensors   | temp-humidity SHT31   | SHT31            | :white_check_mark: |
+| digital sensors   | ambient light         | TLS2591          | :white_check_mark: |
+| digital sensors   | thermistor            | DS18B20          | :white_check_mark: |
+| digital sensors   | thermistor breakout   | DS18B20 BREAKOUT | :white_check_mark: |
+| digital sensors   | sd card reader        | adafruit'        | :white_check_mark: |
+| digital actuators | stepper driver        | DRV8825          | :white_check_mark: |
+| digital actuators | step drv expansion    | A4988 Stable 42  | :white_check_mark: |
+| digital actuators | addressable LED strip | WS2811           | :white_check_mark: |
+| digital sensors   | flow sensor           | digiten FL-608   | :white_check_mark: |
+| digital sensors   | infrared temperature  | MLX90614         | :x:                |
+| digital sensors   | ToF Laser Ranging     | VL53L0X          | :x:                |
+| digital sensors   | ultrasonic distance   | HC-SR04          | :x:                |
+| digital sensors   | accelerometer         | MPU-6050         | :x:                |
+| digital sensors   | load cell module      | HX711            | :x:                |
 
 ## Help Wanted
 You can see this was a great deal of work before AI was available.  By now, getting help could be much easier.  I would like to transform the above project into a uniform set of source documents for the world.  If you wish to help improve this resources, please find my discord and hop into the community! 
