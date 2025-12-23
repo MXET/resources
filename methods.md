@@ -5,6 +5,13 @@ This is a page to educate students on methods for prototyping in multidisciplina
 # Videos
 Tutorials by video to complement your educational materials.
 
+## EMT Conduit
+The electrical wiring industry has a collection of _incredibly useful_ rigid conduit parts you should know about.  Electrical Metallig Conduit (EMT) and accessories are found at local hardware stores at low cost and high utility. Save yourself design time by adopting a standard steel tube, coupling, mounting bracket, and much more from this industry. In the below video I'm introducing some of the most popular parts, showing the characteristics, and describing some use-cases.  The retail inventory can be overwhelming so I carefully chose selections out of 1,000 options to represent the main parts types I found relevant.
+* Download my summary document called [Conduit Data](https://github.com/MXET/resources/blob/00f38fee06ec68f30aec3b6a9a7b33ad15a3425e/doc/2025_ConduitData.pdf)
+
+<iframe width="1250" src="https://www.youtube.com/embed/n3na6mTBLvA" title="Highly Engineered EMT Conduit Parts to Study Before Designing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Aluminum Extrusions
 Rails, brackets, examples, and SOLIDWORKS demonstration to save you tons of time. All the top information for building with aluminum extrusions - please watch before you plan your design!  
 * download [solidworks example files, 2mb](https://lobfile.com/file/ML2JEkJs.zip)
@@ -15,12 +22,12 @@ A simpler, newer method to simultaneously boot a microcontroller and drive an ac
 
 <iframe width="1250" src="https://www.youtube.com/embed/Zrt5EQ3SnGU" title="Dual Power supply for Electronics Prototyping [FULL TUTORIAL]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Clean up your Wires
+## Wiring Cleanup
 Components, methods, and considerations for organizing wires in projects.  It's best to watch this before you design, so you can discover parts to integrate in your project plans.
 <iframe width="1250" src="https://www.youtube.com/embed/31hwwpmNlCo" title="More about USB than you ever wanted to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## Design an Enclosure
+## Enclosure Design
 How to plan an enclosure, select components, and make a successful prototype.  Involve 3D printing or skip it altogether.
 
 <iframe width="1250" src="https://www.youtube.com/embed/i4oJTfp18eg" title="More about USB than you ever wanted to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
