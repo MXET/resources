@@ -13,8 +13,9 @@ The electrical wiring industry has a collection of _incredibly useful_ rigid con
 
 
 ## Aluminum Extrusions
-Rails, brackets, examples, and SOLIDWORKS demonstration to save you tons of time. All the top information for building with aluminum extrusions - please watch before you plan your design!  
+Rails, brackets, examples, and SOLIDWORKS demonstration to save you tons of time. All the top information for building with aluminum extrusions - please watch before you plan your design!  The video below includes 5 minutes near the end which is a tutorial for setting up a 3D frame for any design in Solidworks with Weldments.  This method is far less work than manually arranging an assembly, and automatically produces the cut list, corner angles and lengths.  I also show you how to add the 20mm or 30mm extrusion to your CAD library, with the example files (profile and assembly) included in the download.
 * download [solidworks example files, 2mb](https://lobfile.com/file/ML2JEkJs.zip)
+
 <iframe width="1250" src="https://www.youtube.com/embed/cLrIE6ltErE" title="Aluminum Extrusions Fundamentals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Power your Prototype
