@@ -36,5 +36,7 @@ Misumi corporation offers some valuable example designs that maybe uniquely help
 * integration of key actuators, like pneumatic pistons, demonstrating how to bracket & integrate
 * Clear specifications for the design criteria that map to the size and strength of the parts.
 * sufficient design specification that an engineer can make adjustments and successfully redesign for new specs.
-* 
-![misumi machine example1](https://us.misumi-ec.com/ideanote/img/common/alpha_img.gif)
+* Color-coded cad assemblies indicating off-the-shelf, fabricated, and other part types.
+
+
+![machine animation](https://us.misumi-ec.com/msmec/ideanote/000075/img/img_motion_01.png)
