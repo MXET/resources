@@ -37,6 +37,8 @@ Misumi corporation offers some valuable example designs that maybe uniquely help
 * Clear specifications for the design criteria that map to the size and strength of the parts.
 * sufficient design specification that an engineer can make adjustments and successfully redesign for new specs.
 * Color-coded cad assemblies indicating off-the-shelf, fabricated, and other part types.
-
+**Check it out**
+  * visit the misumi ["in-cad library"](https://us.misumi-ec.com/us/incadlibrary/)
+  * see their articles for [mechanical design learning](https://us.misumi-ec.com/blog/category/mechanical-design/)
 
 ![machine animation](https://us.misumi-ec.com/msmec/ideanote/000075/img/img_motion_01.png)
