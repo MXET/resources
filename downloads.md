@@ -26,3 +26,15 @@ Some key components are a window to discover items you didn't know that you need
  - [Terminal Blocks Guide - automationdirect](https://lobfile.com/file/sPZ3H9zN.pdf)
  - [Timing Belt Design Guide](https://lobfile.com/file/UXbudfRZ.pdf)
 - [Tap Drill Size Chart](https://lobfile.com/file/RkPc2yPc.pdf)
+
+## Designs
+
+Misumi corporation offers some valuable example designs that maybe uniquely helpful.  (Misumi is a Japan-based parts distributor for mechanical components).
+* designs which execute one function highly relevant in general industries
+* assemblies that maximize the inclusion of off-the-shelf parts, reducing fabrication effort.
+* CAD models explicitly indicating the part numbers of each component.
+* integration of key actuators, like pneumatic pistons, demonstrating how to bracket & integrate
+* Clear specifications for the design criteria that map to the size and strength of the parts.
+* sufficient design specification that an engineer can make adjustments and successfully redesign for new specs.
+* 
+![misumi machine example1](https://us.misumi-ec.com/ideanote/img/common/alpha_img.gif)
